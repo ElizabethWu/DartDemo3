@@ -1,0 +1,24 @@
+# -FrontPage-
+
+#IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+#<Limit GET POST>
+#order deny,allow
+#deny from all
+#allow from all
+#</Limit>
+#<Limit PUT DELETE>
+#order deny,allow
+#deny from all
+#</Limit>
+#<Files ~ "\.inc$">
+#Order allow,deny
+#Deny from all
+#</Files>
+#AuthName dartdemo2.bssd.org
+#AuthUserFile /home/dartdmo/public_html/_vti_pvt/service.pwd
+#AuthGroupFile /home/dartdmo/public_html/_vti_pvt/service.grp
+#Options +SymLinksIfOwnerMatch
+#RewriteEngine On
+#RewriteCond %{SERVER_PORT} !=443
+#RewriteRule ^ https://dartdemo2.bssd.org%{REQUEST_URI} [R,L]

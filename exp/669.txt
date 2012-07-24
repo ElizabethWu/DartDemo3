@@ -1,0 +1,68 @@
+%FDF-1.2
+%âãÏÓ
+1 0 obj
+<< 
+/FDF << /Fields [ <</T(sname)/V(Lesa
+ Akright)>><</T(grade)/V(5)>><</T(aid)/V(330537)>><</T(DOB)/V(1999-12-17)>><</T(gender)/V(Female)>><</T(GPA)/V(3.000)>><</T(creditsearned)/V(0.25)>><</T(Testing)/V()>><</T(Additional Info)/V()>><</T(EC Activities)/V()>><</T(dateissued)/V(2011-07-19)>><</T(dategrad)/V()>><</T(Purpose)/V(Permanent File  - GPA & Credits Earned)>><</T(name.1)/V(Technology 4
+  Global Survey
+  Science 3
+2010-11 -  (8)
+  Awareness & Expression 3
+  Healthy Living
+  Career Exploration
+  Writing Level 4
+  Wings 4.1-5.2
+  Mathematics Level 5
+  Technology 4
+  Global Survey
+  Science 3)>><</T(name.2)/V()>><</T(Q1.1)/V(==
+-
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q2.1)/V(==
+-
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q3.1)/V(-
+==
+-
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q4.1)/V(-
+-
+-
+==
+-
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q1.2)/V()>><</T(Q2.2)/V()>><</T(Q3.2)/V()>><</T(Q4.2)/V()>>] 
+/F (exp/669.txt) /ID [ <44ae92c158657c1828cc637ce72911d0>
+] >> 
+>> 
+endobj
+trailer
+<<
+/Root 1 0 R 
+
+>>
+%%EOF

@@ -1,0 +1,139 @@
+DART - Data Analysis and Reporting Toolkit
+Copyright (C) 2006 Bering Strait School District
+
+Project Pages located at:
+
+        Project Wiki & Tutorials
+        http://wiki.bssd.org/index.php/DART_System
+
+        Software Repository, Developer Forums & Bugtracker
+        https://eduforge.org/projects/dart/
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version. 
+
+You can read the full license here:
+
+        http://creativecommons.org/licenses/GPL/2.0/
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program package; if not, write to the Free Software Foundation,
+Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+
+ABOUT DOCUMENTATION: This is just a first stab at organizing documentation for
+the DART system. The wiki pages, and Eduforge site will hopefully soon
+have a group of users who can help in providing more detailed instructions,
+as well as feedback on how DART can be most easily be documented.
+
+To install the DART system:
+
+Requirements:
+-------------
+- DART uses Pdftk to create PDF files. You need to install Pdftk before using 
+DART (see http://www.pdflabs.com/docs/install-pdftk/)
+
+- DART uses a MySql database, you need to provide the name of a existing 
+database and user, and the installer will create the tables
+
+Installation:
+-------------
+- Put all components in a directory that is assessible by a web browser running 
+php/mysql. 
+
+- Create folders to use the SMARTY template system (Smarty (www.smarty.net) is 
+already included in the source folder). Follow these instructions in a command console:
+$> cd smarty
+$> mkdir templates_c
+$> mkdir cache
+$> mkdir configs
+# templates_c and cache have to be writtable by Apache. For instance, you can do:
+$> chown _www:_mysql templates_c
+$> chown _www:_mysql cache
+$> chmod 775 templates_c
+$> chmod 775 cache
+$> cd ..
+
+- Give permissions to other special files and folders: 
+# exp and exp/tmp.pdf have to be writtable by Apache. For instance, you can do:
+$> chown _www:_mysql exp
+$> chown _www:_mysql exp/tmp.pdf
+
+- If you want to test the system with a sample database, you have to download it from 
+https://dartdemo2.bssd.org/downloads/sample.sql and save it in the install folder
+
+- Open the index file in a browser. Eg: http://localhost:8888/DART/index.php
+
+- Follow the page instructions to install DART. This will create the tables in 
+the database and the config/config.ini file. This file can be later modified to 
+set up other configuration parameters, such as the installation path of Pdftk
+
+Starting to use DART:
+--------------------
+A good order to set things up is:
+
+- Create School:
+  Admin > Dictionaries > District School (index.php?cmd=sitesEdit)
+
+- Add information to the start page of each shool: You can an Important, 
+Warning and Tip message to be displayed in the start page, for users where
+this privilege is granted (see "Set Privileges")
+  Admin > Notes > Site Notes (index.php?cmd=editNotes)
+
+- Create Grading System: You can skip this step if you wnat to use the existing 
+systems
+  Admin > Grading Scales (index.php?cmd=editgs)
+
+- Assign Grading System:
+systems
+  Admin > Grading Scales > Edit Site Grades, select site and then click 
+"New Grade Schedule For Site" (index.php?cmd=editsite)
+
+- Create Courses (Subjects): You can create your own courses and/or use the
+existing ones.
+  Admin > Dictionaries > Courses > Create Subjects (index.php?cmd=createsubject)
+
+- Create Levels for each subject (you need to create levels for the existing
+subjects before you can enroll students)
+  Admin > Dictionaries > Courses (index.php?cmd=createlevels)
+
+- Create Standards for each subject and level (you need to create standards for the existing
+subjects before you can enroll students)
+
+  Admin > Dictionaries > Create, Delete and Rename (index.php?cmd=standardManipulation)
+
+- Add Information to Standards: Select standard and add shortname, description 
+and link to curriculum
+  Admin > Dictionaries > Create, Standards (index.php?cmd=editStandards)
+
+- Add Students & Add Student Information
+  Admin > Manage Admin, select site and then click New Student (index.php?cmd=userAdmin&status=Active)
+
+- Enroll Students to Levels: You can do this right after adding a new student, or 
+later by choosing "Edit Student Information" from the drop-down menu at the top of
+any page
+
+- Add Teachers and Administrators: You have to assign them to schools or districtwide
+  Admin > Manage Admin (index.php?cmd=userAdmin&site=Admin&status=Active)
+First select school, then click "New Teacher" or "New Admin". Right after 
+creating a new user, you need to set their privileges (they are created without 
+any privileges)
+
+- Set Privileges for users: You can set privileges (none, school-wide for 
+teachers or district-wide for wide staff/admins to see all schools) for each 
+functionality, or use the template profiles at the bottom of the page. 
+  Admin > Manage Admin (index.php?cmd=userAdmin&site=Admin&status=Active)
+First select school, then locate the user and click "Privileges"
+
+- Search for and form groups: Groups are the center of how users interact with 
+the site. The documentation on BSSD's wiki site and the GitHub site has
+some nice basics on creating groups already posted.
+  Students > Search for Students (index.php?cmd=search)
+

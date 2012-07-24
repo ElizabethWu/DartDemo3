@@ -1,0 +1,266 @@
+%FDF-1.2
+%âãÏÓ
+1 0 obj
+<< 
+/FDF << /Fields [ <</T(sname)/V(Morris
+ Fisser)>><</T(grade)/V(10)>><</T(aid)/V(2662)>><</T(DOB)/V(1994-04-12)>><</T(gender)/V(Male)>><</T(GPA)/V(3.000)>><</T(creditsearned)/V(2.375)>><</T(Testing)/V()>><</T(Additional Info)/V()>><</T(EC Activities)/V()>><</T(dateissued)/V()>><</T(dategrad)/V()>><</T(Purpose)/V(Graduation - GPA & Credits Earned)>><</T(name.1)/V(2005-06 -  (9)
+  Mathematics 3
+  Social Studies 2
+  Working With Others
+  Healthy Living
+2006-07 -  (10)
+  Developing Writer
+  Technology 3
+  Connecting Learning and Work
+  Science 3
+2007-08 -  (11)
+  Developing Writer
+  Technology 3
+  Connecting Learning and Work
+  Fine Arts & Culture
+  Social Issues
+  Basic Life Skills
+  Experienced Writer
+  Science 3
+  Mathematics 4
+  Culture, Art & Performance
+2008-09 -  (12)
+  Technology 3
+  Connecting Learning and Work
+  Basic Life Skills
+  Experienced Writer
+  Science 3)>><</T(name.2)/V(Mathematics 4
+  Culture, Art & Performance
+  US Survey
+  Writing Level 4
+  Technology 4
+  Career Exploration
+  Advanced Life Skills
+2009-10 -  (12)
+  Science 3
+  Mathematics 4
+  Culture, Art & Performance
+  US Survey
+  Writing Level 4
+  Technology 4
+  Career Exploration
+  Advanced Life Skills
+2010-11 -  (12)
+  Science 3
+  Mathematics 4
+  Culture, Art & Performance
+  US Survey
+  Writing Level 4
+  Technology 4
+  Career Exploration
+  Advanced Life Skills)>><</T(Q1.1)/V(==
+
+
+
+
+==
+
+
+
+
+==
+-
+-
+-
+-
+-
+
+
+-
+-
+
+==
+-
+-
+-
+-
+-)>><</T(Q2.1)/V(==
+-
+-
+-
+-
+==
+
+
+
+
+==
+-
+-
+-
+B
+B
+-
+
+-
+-
+-
+==
+B
+-
+-
+-
+-)>><</T(Q3.1)/V(==
+-
+-
+-
+-
+==
+
+
+
+
+==
+B
+-
+-
+
+
+-
+-
+-
+-
+-
+==
+
+-
+-
+-
+-)>><</T(Q4.1)/V(==
+A
+A
+A
+A
+==
+-
+-
+-
+-
+==
+
+-
+-
+
+
+-
+-
+-
+-
+-
+==
+
+B
+B
+B
+-)>><</T(Q1.2)/V(-
+-
+
+
+
+
+
+==
+-
+-
+-
+-
+-
+-
+-
+-
+==
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q2.2)/V(-
+-
+
+
+-
+
+
+==
+-
+-
+-
+-
+-
+-
+-
+-
+==
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q3.2)/V(-
+-
+
+
+-
+
+
+==
+-
+-
+-
+-
+-
+-
+-
+-
+==
+-
+-
+-
+-
+-
+-
+-
+-)>><</T(Q4.2)/V(-
+-
+-
+-
+-
+-
+-
+==
+-
+-
+-
+-
+-
+-
+-
+-
+==
+-
+-
+-
+-
+-
+-
+-
+-)>>] 
+/F (exp/665.txt) /ID [ <f6fdc31dddd6b25a0e2060562ed01484>
+] >> 
+>> 
+endobj
+trailer
+<<
+/Root 1 0 R 
+
+>>
+%%EOF

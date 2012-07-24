@@ -1,0 +1,16 @@
+%FDF-1.2
+%‚„œ”
+1 0 obj
+<< 
+/FDF << /Fields [ <</T(sname)/V(Jay
+ Shoup)>><</T(grade)/V(3)>><</T(aid)/V(331906)>><</T(DOB)/V(2002-07-07)>><</T(gender)/V(Male)>><</T(GPA)/V(0.000)>><</T(creditsearned)/V()>><</T(Testing)/V()>><</T(Additional Info)/V()>><</T(EC Activities)/V()>><</T(dateissued)/V(07-15-2011)>><</T(dategrad)/V()>><</T(Purpose)/V(Graduation - GPA & Credits Earned)>>] 
+/F (exp/198.txt) /ID [ <4bff667fc04b100340e589a01018be5b>
+] >> 
+>> 
+endobj
+trailer
+<<
+/Root 1 0 R 
+
+>>
+%%EOF

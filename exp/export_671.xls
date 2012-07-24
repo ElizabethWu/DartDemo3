@@ -1,0 +1,4637 @@
+	"fname"	"lname"	"studentid"	"referer"	"title"	"status"	"sped"	"typeofoffense"	"scale"	"consequence"	"handled"	"lengthdays"	"dt"	"ssite"	"disciplineid"
+	"Karri
+"	"Lysher
+"	"794"	"Katty Tester"	"punching retaliation"	"Inactive"	"N"	"Assault"	""	""	"Office"	"0"	"07.11.2011"	"CLS"	"9947"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.19.2011"	"HLS"	"7823"
+	"Patsy
+"	"Litano
+"	"1220"	"Jack Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"05.19.2011"	"WCS"	"7832"
+	"Sergio
+"	"Krueth
+"	"866"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.18.2011"	"ROS"	"7808"
+	"Soraya
+"	"Muschaweck
+"	"484"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"05.18.2011"	"ROS"	"7809"
+	"Dario
+"	"Cedotal
+"	"891"	"Jack Tester"	""	"Inactive"	"N"	""	""	""	""	"2"	"05.18.2011"	"COS"	"7828"
+	"Jacki
+"	"Carthen
+"	"1164"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.18.2011"	"WCS"	"7834"
+	"Jamar
+"	"Vermette
+"	"1154"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.18.2011"	"JZS"	"7835"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"05.17.2011"	"IBS"	"7806"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"05.17.2011"	"THS"	"7807"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.17.2011"	"COS"	"7810"
+	"Joshua
+"	"Petraglia
+"	"874"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.17.2011"	"COS"	"7816"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.17.2011"	"COS"	"7817"
+	"Jarrett
+"	"Wohlford
+"	"731"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"2"	"05.17.2011"	"CLS"	"7826"
+	"Clayton
+"	"Desisles
+"	"474"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"05.16.2011"	"IBS"	"7812"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"05.16.2011"	"LES"	"7815"
+	"Mariko
+"	"Syler
+"	"178"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"05.13.2011"	"LES"	"7789"
+	"Theressa
+"	"Renollet
+"	"1063"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"05.13.2011"	"THS"	"7793"
+	"Antonio
+"	"Takehara
+"	"1117"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"05.13.2011"	"VIS"	"7794"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"05.13.2011"	"SHS"	"7801"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.13.2011"	"VIS"	"7802"
+	"Alex
+"	"Greuel
+"	"1182"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.13.2011"	"CLS"	"7803"
+	"Gordon
+"	"Kleine
+"	"545"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.13.2011"	"COS"	"7805"
+	"Martin
+"	"Tennessee
+"	"74"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.12.2011"	"WPS"	"7777"
+	"Martin
+"	"Tennessee
+"	"74"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"05.12.2011"	"WPS"	"7780"
+	"Vance
+"	"Sloat
+"	"1294"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.12.2011"	"THS"	"7785"
+	"Cyrus
+"	"Strayham
+"	"886"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"5"	"05.12.2011"	"HUS"	"7787"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.12.2011"	"COS"	"7795"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.12.2011"	"HUS"	"7797"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"05.11.2011"	"RAS"	"7395"
+	"Patsy
+"	"Litano
+"	"1220"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"05.11.2011"	"WCS"	"7761"
+	"Chad
+"	"Cassady
+"	"572"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.11.2011"	"VIS"	"7768"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"05.11.2011"	"THS"	"7769"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.11.2011"	"SHS"	"7771"
+	"Samara
+"	"Kapadia
+"	"1074"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"05.11.2011"	"RAS"	"7775"
+	"Armando
+"	"Imbriale
+"	"1025"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.11.2011"	"RFS"	"7784"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"05.11.2011"	"THS"	"7786"
+	"Tommie
+"	"Maltsberger
+"	"214"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"05.11.2011"	"ROS"	"7841"
+	"Sheba
+"	"Custance
+"	"870"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"05.10.2011"	"SHS"	"5655"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.10.2011"	"RFS"	"7747"
+	"Joshua
+"	"Petraglia
+"	"874"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"05.10.2011"	"COS"	"7748"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.10.2011"	"COS"	"7750"
+	"Thurman
+"	"Heathcote
+"	"68"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"05.10.2011"	"WCS"	"7752"
+	"Nadene
+"	"Patague
+"	"516"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"05.10.2011"	"ROS"	"7754"
+	"Sabina
+"	"Massay
+"	"123"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.10.2011"	"HUS"	"7756"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.10.2011"	"ROS"	"7759"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"05.10.2011"	"ROS"	"7760"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.10.2011"	"LES"	"7765"
+	"Evelyne
+"	"Milbauer
+"	"727"	" Liz Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"05.10.2011"	"IBS"	"7767"
+	"Nelson
+"	"Santillo
+"	"129"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.10.2011"	"JZS"	"7796"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"05.09.2011"	"SHS"	"7734"
+	"Elenor
+"	"Hollars
+"	"882"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.09.2011"	"COS"	"7735"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"05.09.2011"	"IBS"	"7737"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.09.2011"	"SHS"	"7738"
+	"Joshua
+"	"Petraglia
+"	"874"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.09.2011"	"COS"	"7740"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.09.2011"	"JZS"	"7743"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.09.2011"	"RAS"	"7745"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.09.2011"	"VIS"	"7746"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.09.2011"	"COS"	"7749"
+	"Sergio
+"	"Krueth
+"	"866"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.09.2011"	"ROS"	"7781"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"05.09.2011"	"COS"	"7783"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.08.2011"	"RFS"	"7733"
+	"Vance
+"	"Sloat
+"	"1294"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"1"	"05.06.2011"	"THS"	"7732"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"05.06.2011"	"JZS"	"7742"
+	"Nelson
+"	"Santillo
+"	"129"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.06.2011"	"JZS"	"7744"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"05.06.2011"	"SHS"	"7751"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"05.05.2011"	"COS"	"7699"
+	"Marna
+"	"Bissett
+"	"1024"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"05.05.2011"	"HUS"	"7700"
+	"Gilbert
+"	"Bene
+"	"666"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.05.2011"	"IBS"	"7702"
+	"Joline
+"	"Ilagan
+"	"546"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.05.2011"	"RFS"	"7704"
+	"Quentin
+"	"Geoffrion
+"	"297"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.05.2011"	"WPS"	"7705"
+	"Sergio
+"	"Krueth
+"	"866"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.05.2011"	"ROS"	"7706"
+	"Young
+"	"Kazmer
+"	"846"	" Liz Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"05.05.2011"	"HUS"	"7713"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"RAS"	"7715"
+	"Milo
+"	"Schoeben
+"	"847"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"JZS"	"7716"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"VIS"	"7718"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"COS"	"7719"
+	"Tabitha
+"	"Fujita
+"	"729"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"JZS"	"7721"
+	"Trey
+"	"Mapstone
+"	"1064"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"05.05.2011"	"LES"	"7723"
+	"Foster
+"	"Bittle
+"	"82"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"SHS"	"7724"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"05.05.2011"	"RAS"	"7725"
+	"Dusty
+"	"Richan
+"	"1137"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.05.2011"	"VIS"	"7726"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.05.2011"	"WPS"	"7727"
+	"Elsy
+"	"Clevinger
+"	"542"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.05.2011"	"ROS"	"7729"
+	"Lamar
+"	"Shein
+"	"291"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"05.04.2011"	"CLS"	"7688"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"05.04.2011"	"HLS"	"7689"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"05.04.2011"	"COS"	"7690"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"05.04.2011"	"WPS"	"7691"
+	"Alesha
+"	"Nietupski
+"	"280"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"05.04.2011"	"IBS"	"7692"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.04.2011"	"RFS"	"7694"
+	"Joyce
+"	"Forbess
+"	"1183"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"05.04.2011"	"HLS"	"7695"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.04.2011"	"RFS"	"7697"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"05.04.2011"	"WPS"	"7703"
+	"Gordon
+"	"Kleine
+"	"545"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"05.04.2011"	"COS"	"7707"
+	"Hyacinth
+"	"Herdes
+"	"469"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"05.04.2011"	"HLS"	"7711"
+	"Young
+"	"Kazmer
+"	"846"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.04.2011"	"HUS"	"7712"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.04.2011"	"VIS"	"7717"
+	"Edmond
+"	"Hoeck
+"	"92"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"05.03.2011"	"VIS"	"7673"
+	"Kaylene
+"	"Guttmann
+"	"1171"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"05.03.2011"	"ROS"	"7676"
+	"Jacki
+"	"Carthen
+"	"1164"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"05.03.2011"	"WCS"	"7677"
+	"Brain
+"	"Zebell
+"	"1155"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"05.03.2011"	"RAS"	"7680"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.03.2011"	"JZS"	"7681"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.03.2011"	"JZS"	"7682"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"05.03.2011"	"SHS"	"7683"
+	"Elmo
+"	"Ferrucci
+"	"479"	"Jack Tester"	""	"Active"	"Y"	""	""	"G"	""	"0"	"05.03.2011"	"THS"	"7684"
+	"Odis
+"	"Sarisky
+"	"496"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"05.03.2011"	"HUS"	"7685"
+	"Houston
+"	"Willborn
+"	"85"	" Liz Tester"	""	"Active"	"Y"	""	""	"G"	""	"0"	"05.03.2011"	"HUS"	"7686"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.02.2011"	"IBS"	"7654"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"05.02.2011"	"RFS"	"7655"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.02.2011"	"SHS"	"7660"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"05.02.2011"	"LES"	"7662"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"05.02.2011"	"JZS"	"7663"
+	"Barry
+"	"Ocana
+"	"94"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"05.02.2011"	"JZS"	"7664"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.02.2011"	"WPS"	"7666"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"05.02.2011"	"COS"	"7670"
+	"Hyacinth
+"	"Herdes
+"	"469"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"05.02.2011"	"HLS"	"7710"
+	"Jerome
+"	"Bellefleur
+"	"954"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.29.2011"	"RAS"	"7632"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.29.2011"	"IBS"	"7633"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.29.2011"	"VIS"	"7634"
+	"Dusty
+"	"Richan
+"	"1137"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.29.2011"	"VIS"	"7635"
+	"Corliss
+"	"Betancur
+"	"714"	"Jack Tester"	""	"Active"	"Y"	""	""	"none"	""	"0"	"04.29.2011"	"SHS"	"7636"
+	"Vicente
+"	"Kalafarski
+"	"1174"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.29.2011"	"WCS"	"7637"
+	"Trey
+"	"Mapstone
+"	"1064"	"Andy Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"04.29.2011"	"LES"	"7638"
+	"Armando
+"	"Imbriale
+"	"1025"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"04.29.2011"	"RFS"	"7639"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"04.29.2011"	"LES"	"7642"
+	"Angla
+"	"Malis
+"	"303"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.29.2011"	"THS"	"7643"
+	"Eugene
+"	"Elkington
+"	"91"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.29.2011"	"LES"	"7644"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.29.2011"	"ROS"	"7645"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.29.2011"	"WPS"	"7647"
+	"Marna
+"	"Bissett
+"	"1024"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.29.2011"	"HUS"	"7649"
+	"Brain
+"	"Zebell
+"	"1155"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"04.29.2011"	"RAS"	"7651"
+	"January
+"	"Dohnal
+"	"622"	"Jack Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"04.28.2011"	"THS"	"7612"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"5"	"04.28.2011"	"JZS"	"7613"
+	"Roseanne
+"	"Cerza
+"	"837"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"8"	"04.28.2011"	"SHS"	"7614"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"04.28.2011"	"COS"	"7619"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"04.28.2011"	"THS"	"7620"
+	"Sung
+"	"Rothery
+"	"286"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.28.2011"	"COS"	"7621"
+	"Alesha
+"	"Nietupski
+"	"280"	" Liz Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"04.28.2011"	"IBS"	"7623"
+	"Shawna
+"	"Youd
+"	"81"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"04.28.2011"	"SHS"	"7624"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"04.28.2011"	"JZS"	"7625"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.28.2011"	"ROS"	"7627"
+	"Lou
+"	"Ziel
+"	"430"	"Jack Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"04.28.2011"	"HUS"	"7628"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.28.2011"	"JZS"	"7630"
+	"Bret
+"	"Pesses
+"	"984"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.28.2011"	"RFS"	"7641"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"04.27.2011"	"WCS"	"7603"
+	"Elenor
+"	"Hollars
+"	"882"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.27.2011"	"COS"	"7608"
+	"Lesa
+"	"Akright
+"	"538"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.26.2011"	"HLS"	"7574"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"04.26.2011"	"SHS"	"7575"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"0"	"04.26.2011"	"RFS"	"7577"
+	"Coy
+"	"Schopp
+"	"536"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.26.2011"	"WCS"	"7578"
+	"Yolando
+"	"Linquist
+"	"71"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"04.26.2011"	"CLS"	"7579"
+	"Gilbert
+"	"Bene
+"	"666"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.26.2011"	"IBS"	"7580"
+	"Edith
+"	"Saephan
+"	"301"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"04.26.2011"	"THS"	"7581"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.26.2011"	"JZS"	"7585"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.26.2011"	"LES"	"7586"
+	"Foster
+"	"Bittle
+"	"82"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.26.2011"	"SHS"	"7587"
+	"Marcos
+"	"Crapps
+"	"89"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.26.2011"	"HLS"	"7596"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.26.2011"	"WPS"	"7597"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.26.2011"	"COS"	"7598"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.26.2011"	"COS"	"7599"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"04.26.2011"	"JZS"	"7601"
+	"Cherelle
+"	"Gillings
+"	"959"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.26.2011"	"CLS"	"7602"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"04.25.2011"	"COS"	"7567"
+	"Louie
+"	"Fischetti
+"	"304"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"04.25.2011"	"IBS"	"7582"
+	"Barry
+"	"Ocana
+"	"94"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.25.2011"	"JZS"	"7584"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.25.2011"	"SHS"	"7589"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.25.2011"	"COS"	"7590"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.25.2011"	"JZS"	"7600"
+	"Eddy
+"	"Chaplik
+"	"908"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"3"	"04.25.2011"	"LES"	"7650"
+	"Antonio
+"	"Fland
+"	"363"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.22.2011"	"WCS"	"7506"
+	"Joline
+"	"Ilagan
+"	"546"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.22.2011"	"RFS"	"7548"
+	"Martin
+"	"Tennessee
+"	"74"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.22.2011"	"WPS"	"7555"
+	"Sabina
+"	"Massay
+"	"123"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.22.2011"	"HUS"	"7592"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"04.21.2011"	"COS"	"7516"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"04.21.2011"	"COS"	"7518"
+	"Sung
+"	"Rothery
+"	"286"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.21.2011"	"COS"	"7519"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.21.2011"	"JZS"	"7521"
+	"Hyacinth
+"	"Herdes
+"	"469"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"04.21.2011"	"HLS"	"7524"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"04.21.2011"	"RAS"	"7526"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.21.2011"	"JZS"	"7529"
+	"Marcos
+"	"Crapps
+"	"89"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.21.2011"	"HLS"	"7530"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.21.2011"	"JZS"	"7532"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.21.2011"	"SHS"	"7559"
+	"Dyan
+"	"Petricka
+"	"656"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.21.2011"	"SHS"	"7560"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"04.21.2011"	"WCS"	"7561"
+	"Quintin
+"	"Phothirath
+"	"1097"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"04.21.2011"	"RFS"	"7562"
+	"Oren
+"	"Spong
+"	"964"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"04.21.2011"	"JZS"	"7566"
+	"Elmo
+"	"Ferrucci
+"	"479"	"Andy Tester"	""	"Active"	"Y"	""	""	"S"	""	"5"	"04.20.2011"	"THS"	"7517"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.20.2011"	"SHS"	"7522"
+	"Giovanna
+"	"Stimer
+"	"435"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.20.2011"	"IBS"	"7525"
+	"Mac
+"	"Lacount
+"	"218"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"04.20.2011"	"ROS"	"7563"
+	"Shannon
+"	"Ibasitas
+"	"548"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"04.19.2011"	"COS"	"7497"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.19.2011"	"THS"	"7498"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.19.2011"	"JZS"	"7499"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.19.2011"	"COS"	"7500"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.19.2011"	"HUS"	"7501"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"04.19.2011"	"JZS"	"7503"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.19.2011"	"IBS"	"7523"
+	"Tommie
+"	"Maltsberger
+"	"214"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"04.18.2011"	"ROS"	"6729"
+	"Hyacinth
+"	"Herdes
+"	"469"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"04.18.2011"	"HLS"	"7482"
+	"Barry
+"	"Ocana
+"	"94"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.18.2011"	"JZS"	"7484"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.18.2011"	"JZS"	"7485"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.18.2011"	"LES"	"7486"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.18.2011"	"SHS"	"7487"
+	"Shawna
+"	"Youd
+"	"81"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"04.18.2011"	"SHS"	"7488"
+	"Edmond
+"	"Hoeck
+"	"92"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.18.2011"	"VIS"	"7492"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.18.2011"	"HUS"	"7493"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.18.2011"	"COS"	"7494"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"04.15.2011"	"RFS"	"7465"
+	"Abdul
+"	"Plowe
+"	"853"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.15.2011"	"WPS"	"7471"
+	"Genia
+"	"Kulick
+"	"90"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.15.2011"	"ROS"	"7472"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.15.2011"	"THS"	"7474"
+	"Elsy
+"	"Clevinger
+"	"542"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.15.2011"	"ROS"	"7479"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"1"	"04.15.2011"	"COS"	"7495"
+	"Marcela
+"	"Perlin
+"	"362"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.15.2011"	"CLS"	"7507"
+	"Deedee
+"	"Bloomberg
+"	"790"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"0"	"04.15.2011"	"THS"	"7508"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"04.14.2011"	"COS"	"7462"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"04.14.2011"	"COS"	"7463"
+	"Sabina
+"	"Massay
+"	"123"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.14.2011"	"HUS"	"7466"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"04.14.2011"	"LES"	"7467"
+	"Milo
+"	"Schoeben
+"	"847"	"Jack Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"04.14.2011"	"JZS"	"7468"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.14.2011"	"COS"	"7477"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"04.13.2011"	"RFS"	"7451"
+	"Michel
+"	"Glimp
+"	"1021"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"04.13.2011"	"IBS"	"7452"
+	"Roseanne
+"	"Cerza
+"	"837"	"Jack Tester"	""	"Active"	"N"	""	""	"I"	""	"8"	"04.13.2011"	"SHS"	"7456"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"04.13.2011"	"JZS"	"7459"
+	"Sandy
+"	"Aanenson
+"	"653"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.13.2011"	"CLS"	"7512"
+	"Michael
+"	"Chalfant
+"	"84"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.12.2011"	"HLS"	"7425"
+	"Bell
+"	"Tronaas
+"	"1036"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.12.2011"	"RFS"	"7436"
+	"Thurman
+"	"Heathcote
+"	"68"	"Andy Tester"	""	"Inactive"	"Y"	""	""	""	""	"0"	"04.12.2011"	"WCS"	"7437"
+	"Edith
+"	"Saephan
+"	"301"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"04.12.2011"	"THS"	"7441"
+	"Bell
+"	"Tronaas
+"	"1036"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"04.12.2011"	"RFS"	"7443"
+	"Gale
+"	"Seaquist
+"	"770"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.12.2011"	"WCS"	"7444"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"04.12.2011"	"HUS"	"7447"
+	"Loyce
+"	"Lorey
+"	"899"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.12.2011"	"HUS"	"7448"
+	"Loyce
+"	"Lorey
+"	"899"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"04.12.2011"	"HUS"	"7449"
+	"Marchelle
+"	"Modzelewski
+"	"429"	" Liz Tester"	"Truant 9"	"Active"	"N"	"Skipping Class"	"Minor"	"0"	"Office"	"0"	"04.11.2011"	"JZS"	"12024"
+	"Odis
+"	"Sarisky
+"	"496"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"5"	"04.11.2011"	"HUS"	"7422"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"5"	"04.11.2011"	"HUS"	"7423"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.11.2011"	"JZS"	"7426"
+	"Melva
+"	"Hiskey
+"	"86"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"04.11.2011"	"ROS"	"7429"
+	"Dusty
+"	"Richan
+"	"1137"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.11.2011"	"VIS"	"7431"
+	"Giovanna
+"	"Stimer
+"	"435"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.11.2011"	"IBS"	"7432"
+	"January
+"	"Dohnal
+"	"622"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"04.11.2011"	"THS"	"7435"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.11.2011"	"SHS"	"7439"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.11.2011"	"WPS"	"7446"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"04.08.2011"	"RAS"	"7409"
+	"Joshua
+"	"Howie
+"	"723"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.08.2011"	"WPS"	"7416"
+	"Jarrett
+"	"Wohlford
+"	"731"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"0"	"04.08.2011"	"CLS"	"7537"
+	"Edith
+"	"Saephan
+"	"301"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"04.08.2011"	"THS"	"7798"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"04.07.2011"	"LES"	"7417"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.06.2011"	"IBS"	"7410"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"04.06.2011"	"SHS"	"7418"
+	"Olin
+"	"Vissering
+"	"299"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"04.06.2011"	"JZS"	"7504"
+	"Benita
+"	"Juhasz
+"	"1179"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"04.05.2011"	"JZS"	"7402"
+	"Genia
+"	"Kulick
+"	"90"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.05.2011"	"ROS"	"7408"
+	"Marna
+"	"Bissett
+"	"1024"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"3"	"04.04.2011"	"HUS"	"7381"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"04.04.2011"	"LES"	"7383"
+	"Dusty
+"	"Richan
+"	"1137"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"04.04.2011"	"VIS"	"7384"
+	"Samara
+"	"Kapadia
+"	"1074"	"Katty Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"04.04.2011"	"RAS"	"7385"
+	"Joshua
+"	"Petraglia
+"	"874"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.04.2011"	"COS"	"7388"
+	"Tabitha
+"	"Fujita
+"	"729"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.04.2011"	"JZS"	"7389"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"04.04.2011"	"COS"	"7391"
+	"Elenor
+"	"Hollars
+"	"882"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.04.2011"	"COS"	"7392"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"04.04.2011"	"COS"	"7393"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"04.01.2011"	"HLS"	"7367"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"04.01.2011"	"THS"	"7365"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"04.01.2011"	"RAS"	"7377"
+	"Edmond
+"	"Hoeck
+"	"92"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"04.01.2011"	"VIS"	"7378"
+	"Rickie
+"	"Telep
+"	"534"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"04.01.2011"	"JZS"	"7568"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"03.31.2011"	"SHS"	"7331"
+	"Martin
+"	"Tennessee
+"	"74"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.31.2011"	"WPS"	"7332"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"03.31.2011"	"RAS"	"7334"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.31.2011"	"JZS"	"7337"
+	"Gerry
+"	"Erikson
+"	"827"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.31.2011"	"RAS"	"7338"
+	"Dominic
+"	"Crisp
+"	"88"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.31.2011"	"SHS"	"7341"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"8"	"03.31.2011"	"RFS"	"7342"
+	"Charles
+"	"Hesser
+"	"439"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.31.2011"	"VIS"	"7344"
+	"Johnnie
+"	"Sayegh
+"	"1139"	"Jack Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.31.2011"	"VIS"	"7356"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.31.2011"	"JZS"	"7360"
+	"Sandy
+"	"Aanenson
+"	"653"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.31.2011"	"CLS"	"7362"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"03.31.2011"	"VIS"	"7366"
+	"Max
+"	"Vanleuvan
+"	"1018"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.31.2011"	"RAS"	"7382"
+	"Shantae
+"	"Boatright
+"	"1022"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.30.2011"	"HUS"	"7306"
+	"Sabina
+"	"Massay
+"	"123"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.30.2011"	"HUS"	"7310"
+	"Sabina
+"	"Massay
+"	"123"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.30.2011"	"HUS"	"7311"
+	"Monte
+"	"Odette
+"	"728"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.30.2011"	"RFS"	"7312"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"03.30.2011"	"LES"	"7322"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"03.30.2011"	"LES"	"7323"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.30.2011"	"JZS"	"7325"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.30.2011"	"RFS"	"7327"
+	"Elida
+"	"Monroy
+"	"1017"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.30.2011"	"VIS"	"7328"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.30.2011"	"JZS"	"7329"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.30.2011"	"COS"	"7330"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.29.2011"	"SHS"	"7295"
+	"Edith
+"	"Saephan
+"	"301"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"03.29.2011"	"THS"	"7296"
+	"Marvin
+"	"Soprych
+"	"721"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"3"	"03.29.2011"	"RFS"	"7299"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"03.29.2011"	"WCS"	"7300"
+	"Bell
+"	"Tronaas
+"	"1036"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.29.2011"	"RFS"	"7301"
+	"Lavonna
+"	"Haslip
+"	"1111"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"03.29.2011"	"HLS"	"7303"
+	"Jamar
+"	"Vermette
+"	"1154"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.29.2011"	"JZS"	"7313"
+	"Charles
+"	"Hesser
+"	"439"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.29.2011"	"VIS"	"7315"
+	"Shawna
+"	"Youd
+"	"81"	"Jack Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"03.29.2011"	"SHS"	"7316"
+	"Eugenio
+"	"Hatfield
+"	"1136"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.29.2011"	"CLS"	"7318"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.29.2011"	"RFS"	"7319"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.29.2011"	"HLS"	"7320"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"03.29.2011"	"LES"	"7321"
+	"Joshua
+"	"Petraglia
+"	"874"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.29.2011"	"COS"	"7326"
+	"Miquel
+"	"Pinkos
+"	"668"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.29.2011"	"SHS"	"7361"
+	"Sandy
+"	"Aanenson
+"	"653"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.29.2011"	"CLS"	"7363"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.28.2011"	"SHS"	"7275"
+	"Kareen
+"	"Sarff
+"	"859"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.28.2011"	"RFS"	"7281"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.28.2011"	"COS"	"7282"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.28.2011"	"THS"	"7283"
+	"Delilah
+"	"Gady
+"	"444"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.28.2011"	"THS"	"7284"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.28.2011"	"COS"	"7285"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"03.28.2011"	"JZS"	"7286"
+	"Elida
+"	"Monroy
+"	"1017"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.28.2011"	"VIS"	"7287"
+	"Barry
+"	"Ocana
+"	"94"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.28.2011"	"JZS"	"7288"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"03.28.2011"	"HUS"	"7289"
+	"Genia
+"	"Kulick
+"	"90"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.28.2011"	"ROS"	"7290"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.28.2011"	"JZS"	"7292"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.26.2011"	"JZS"	"7266"
+	"Quintin
+"	"Phothirath
+"	"1097"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.25.2011"	"RFS"	"7260"
+	"Thurman
+"	"Heathcote
+"	"68"	"Andy Tester"	""	"Inactive"	"Y"	""	""	""	""	"0"	"03.25.2011"	"WCS"	"7261"
+	"Claire
+"	"Kunsch
+"	"1167"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.25.2011"	"RFS"	"7263"
+	"Shantae
+"	"Boatright
+"	"1022"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"03.25.2011"	"HUS"	"7264"
+	"Rickie
+"	"Telep
+"	"534"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"03.25.2011"	"JZS"	"7265"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"03.25.2011"	"IBS"	"7267"
+	"Alton
+"	"Shuffler
+"	"443"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.25.2011"	"THS"	"7268"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.25.2011"	"ROS"	"7269"
+	"Melva
+"	"Hiskey
+"	"86"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.25.2011"	"ROS"	"7272"
+	"Demetrius
+"	"Barnhurst
+"	"1196"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.24.2011"	"IBS"	"7226"
+	"Dyan
+"	"Petricka
+"	"656"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"03.24.2011"	"SHS"	"7227"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.24.2011"	"RFS"	"7229"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.24.2011"	"SHS"	"7230"
+	"Cruz
+"	"Weech
+"	"826"	"Jack Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"03.24.2011"	"WCS"	"7232"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"03.24.2011"	"WCS"	"7233"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"2"	"03.24.2011"	"RFS"	"7234"
+	"Benita
+"	"Juhasz
+"	"1179"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.24.2011"	"JZS"	"7235"
+	"Kareen
+"	"Sarff
+"	"859"	" Liz Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"03.24.2011"	"RFS"	"7245"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.24.2011"	"COS"	"7247"
+	"Abdul
+"	"Plowe
+"	"853"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.24.2011"	"WPS"	"7249"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.24.2011"	"JZS"	"7252"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.24.2011"	"VIS"	"7253"
+	"Genia
+"	"Kulick
+"	"90"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.24.2011"	"ROS"	"7254"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.24.2011"	"JZS"	"7257"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.24.2011"	"HUS"	"7258"
+	"Young
+"	"Kazmer
+"	"846"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"03.24.2011"	"HUS"	"7259"
+	"Shantae
+"	"Boatright
+"	"1022"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"03.23.2011"	"HUS"	"7220"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.23.2011"	"ROS"	"7221"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.23.2011"	"COS"	"7222"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.23.2011"	"IBS"	"7223"
+	"Demetrius
+"	"Barnhurst
+"	"1196"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.23.2011"	"IBS"	"7225"
+	"Joshua
+"	"Howie
+"	"723"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"WPS"	"7236"
+	"Sabina
+"	"Massay
+"	"123"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"HUS"	"7237"
+	"Sabina
+"	"Massay
+"	"123"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.23.2011"	"HUS"	"7238"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"RFS"	"7244"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"COS"	"7246"
+	"Abdul
+"	"Plowe
+"	"853"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"WPS"	"7248"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"JZS"	"7250"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.23.2011"	"JZS"	"7251"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.22.2011"	"THS"	"7205"
+	"Martin
+"	"Tennessee
+"	"74"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.22.2011"	"WPS"	"7207"
+	"Barry
+"	"Ocana
+"	"94"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.22.2011"	"JZS"	"7208"
+	"Abdul
+"	"Plowe
+"	"853"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.22.2011"	"WPS"	"7213"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.22.2011"	"JZS"	"7214"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.22.2011"	"VIS"	"7215"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.22.2011"	"VIS"	"7219"
+	"Foster
+"	"Bittle
+"	"82"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.21.2011"	"SHS"	"7216"
+	"Gerry
+"	"Erikson
+"	"827"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"03.18.2011"	"RAS"	"7202"
+	"Nerissa
+"	"Ortman
+"	"1280"	"Jack Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.16.2011"	"THS"	"7188"
+	"Cruz
+"	"Weech
+"	"826"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"03.16.2011"	"WCS"	"7189"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.16.2011"	"COS"	"7191"
+	"Stuart
+"	"Klepac
+"	"87"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.16.2011"	"RAS"	"7192"
+	"Shad
+"	"Kemick
+"	"1138"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.15.2011"	"LES"	"7151"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.15.2011"	"LES"	"7158"
+	"Dorian
+"	"Hornyak
+"	"1145"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.15.2011"	"WCS"	"7161"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"03.15.2011"	"SHS"	"7166"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.15.2011"	"JZS"	"7167"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.15.2011"	"COS"	"7179"
+	"Joline
+"	"Ilagan
+"	"546"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.15.2011"	"RFS"	"7181"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.15.2011"	"ROS"	"7186"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"03.14.2011"	"RAS"	"7145"
+	"Edith
+"	"Saephan
+"	"301"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"03.14.2011"	"THS"	"7147"
+	"Mabel
+"	"Bares
+"	"285"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"03.14.2011"	"COS"	"7148"
+	"Shawna
+"	"Youd
+"	"81"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"SHS"	"7164"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"SHS"	"7165"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"JZS"	"7169"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"JZS"	"7170"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"03.14.2011"	"JZS"	"7171"
+	"Charles
+"	"Hesser
+"	"439"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.14.2011"	"VIS"	"7172"
+	"Lawerence
+"	"Michener
+"	"473"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"HLS"	"7173"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"HLS"	"7174"
+	"Stuart
+"	"Klepac
+"	"87"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.14.2011"	"RAS"	"7175"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"03.14.2011"	"LES"	"7178"
+	"Dusty
+"	"Richan
+"	"1137"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.14.2011"	"VIS"	"7180"
+	"Milo
+"	"Schoeben
+"	"847"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.14.2011"	"JZS"	"7182"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"03.14.2011"	"RFS"	"7187"
+	"Benita
+"	"Juhasz
+"	"1179"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.13.2011"	"JZS"	"7201"
+	"Karri
+"	"Lysher
+"	"794"	"Jack Tester"	"disrespectful behavior"	"Inactive"	"N"	"Defiance / Disrespect"	"Major"	""	"Office"	"0"	"03.11.2011"	"CLS"	"9848"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.11.2011"	"COS"	"7125"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.11.2011"	"JZS"	"7131"
+	"Lamar
+"	"Shein
+"	"291"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.11.2011"	"CLS"	"7146"
+	"Cruz
+"	"Weech
+"	"826"	" Liz Tester"	""	"Inactive"	"N"	""	""	"S"	""	"4"	"03.10.2011"	"WCS"	"7119"
+	"Seema
+"	"Orgeron
+"	"529"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.10.2011"	"VIS"	"7113"
+	"Titus
+"	"Nasby
+"	"302"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.10.2011"	"RFS"	"7115"
+	"Berry
+"	"Basse
+"	"544"	"Jack Tester"	""	"Active"	"Y"	""	""	"D"	""	"1"	"03.10.2011"	"THS"	"7116"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.10.2011"	"COS"	"7120"
+	"Samara
+"	"Kapadia
+"	"1074"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"1"	"03.10.2011"	"RAS"	"7123"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.10.2011"	"LES"	"7134"
+	"Tabitha
+"	"Fujita
+"	"729"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"03.10.2011"	"JZS"	"7140"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.10.2011"	"LES"	"7157"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.10.2011"	"JZS"	"7168"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"03.09.2011"	"COS"	"7103"
+	"Joshua
+"	"Howie
+"	"723"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.09.2011"	"WPS"	"7104"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.09.2011"	"JZS"	"7107"
+	"Elenor
+"	"Hollars
+"	"882"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.09.2011"	"COS"	"7108"
+	"Roseanne
+"	"Cerza
+"	"837"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"03.09.2011"	"SHS"	"7110"
+	"Bell
+"	"Tronaas
+"	"1036"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.09.2011"	"RFS"	"7112"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.09.2011"	"JZS"	"7139"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"03.08.2011"	"COS"	"7066"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.08.2011"	"COS"	"7067"
+	"Bell
+"	"Tronaas
+"	"1036"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.08.2011"	"RFS"	"7068"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.08.2011"	"COS"	"7070"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.08.2011"	"COS"	"7071"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.08.2011"	"RFS"	"7076"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.08.2011"	"RFS"	"7078"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"03.08.2011"	"RAS"	"7079"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.08.2011"	"RAS"	"7080"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"03.08.2011"	"RFS"	"7082"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.08.2011"	"JZS"	"7086"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"03.08.2011"	"JZS"	"7087"
+	"Shawna
+"	"Youd
+"	"81"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.08.2011"	"SHS"	"7088"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.08.2011"	"JZS"	"7090"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.08.2011"	"RAS"	"7091"
+	"Dia
+"	"Arbertha
+"	"956"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.08.2011"	"IBS"	"7092"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.08.2011"	"RAS"	"7097"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.07.2011"	"RFS"	"7081"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.07.2011"	"JZS"	"7089"
+	"Chong
+"	"Kestle
+"	"854"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.07.2011"	"HLS"	"7095"
+	"Stuart
+"	"Klepac
+"	"87"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.07.2011"	"RAS"	"7096"
+	"Morris
+"	"Fisser
+"	"1057"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.07.2011"	"RFS"	"7098"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.07.2011"	"COS"	"7099"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.07.2011"	"COS"	"7100"
+	"Tabitha
+"	"Fujita
+"	"729"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.07.2011"	"JZS"	"7101"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.07.2011"	"IBS"	"7102"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.04.2011"	"HLS"	"7055"
+	"Dustin
+"	"Rosebrock
+"	"194"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.04.2011"	"WCS"	"7554"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.03.2011"	"VIS"	"7050"
+	"Clark
+"	"Noser
+"	"470"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"03.03.2011"	"CLS"	"7062"
+	"Jarrett
+"	"Wohlford
+"	"731"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"1"	"03.03.2011"	"CLS"	"7348"
+	"Dario
+"	"Cedotal
+"	"891"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.03.2011"	"COS"	"7349"
+	"Herman
+"	"Stimple
+"	"70"	"Jack Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"03.02.2011"	"RAS"	"7036"
+	"Quentin
+"	"Geoffrion
+"	"297"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.02.2011"	"WPS"	"7042"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.02.2011"	"HLS"	"7054"
+	"Monte
+"	"Odette
+"	"728"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.02.2011"	"RFS"	"7058"
+	"Dusty
+"	"Richan
+"	"1137"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.02.2011"	"VIS"	"7059"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"03.02.2011"	"THS"	"7060"
+	"Sandy
+"	"Aanenson
+"	"653"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"03.02.2011"	"CLS"	"7144"
+	"Mac
+"	"Lacount
+"	"218"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.01.2011"	"ROS"	"7000"
+	"Roseanne
+"	"Cerza
+"	"837"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"03.01.2011"	"SHS"	"7001"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.01.2011"	"RFS"	"7006"
+	"Louie
+"	"Fischetti
+"	"304"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"03.01.2011"	"IBS"	"7011"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.01.2011"	"HUS"	"7013"
+	"Joshua
+"	"Petraglia
+"	"874"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.01.2011"	"COS"	"7014"
+	"Consuelo
+"	"Mondry
+"	"763"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"03.01.2011"	"LES"	"7015"
+	"Elida
+"	"Monroy
+"	"1017"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"03.01.2011"	"VIS"	"7016"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"03.01.2011"	"SHS"	"7018"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.01.2011"	"JZS"	"7021"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"03.01.2011"	"JZS"	"7027"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"03.01.2011"	"COS"	"7032"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.01.2011"	"COS"	"7033"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"03.01.2011"	"IBS"	"7034"
+	"Delmar
+"	"Goodyear
+"	"55"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"1"	"02.28.2011"	"JZS"	"7002"
+	"Marya
+"	"Demiter
+"	"61"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"02.28.2011"	"COS"	"7003"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"02.28.2011"	"LES"	"7017"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.28.2011"	"JZS"	"7026"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.26.2011"	"COS"	"6982"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"02.26.2011"	"COS"	"6983"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.26.2011"	"VIS"	"6985"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.26.2011"	"IBS"	"6987"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.26.2011"	"IBS"	"6994"
+	"Joe
+"	"Ferdon
+"	"843"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"02.25.2011"	"ROS"	"6972"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"02.25.2011"	"THS"	"6973"
+	"Melva
+"	"Hiskey
+"	"86"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"02.25.2011"	"ROS"	"6981"
+	"Louie
+"	"Fischetti
+"	"304"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.24.2011"	"IBS"	"6975"
+	"Caroyln
+"	"Amlin
+"	"290"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.24.2011"	"VIS"	"6976"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.24.2011"	"COS"	"6978"
+	"Reinaldo
+"	"Sadorra
+"	"279"	"Katty Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.24.2011"	"CLS"	"6979"
+	"Reuben
+"	"Harthorne
+"	"182"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"8"	"02.24.2011"	"CLS"	"6980"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"02.23.2011"	"RFS"	"6969"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.23.2011"	"THS"	"6970"
+	"Hyacinth
+"	"Herdes
+"	"469"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"02.23.2011"	"HLS"	"6984"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.23.2011"	"JZS"	"6986"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.23.2011"	"HLS"	"6991"
+	"Tran
+"	"Groomes
+"	"792"	"Katty Tester"	""	"Active"	"Y"	""	""	"G"	""	"0"	"02.21.2011"	"CLS"	"6937"
+	"Melva
+"	"Hiskey
+"	"86"	" Liz Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"02.21.2011"	"ROS"	"6948"
+	"Milo
+"	"Schoeben
+"	"847"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.21.2011"	"JZS"	"6952"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.21.2011"	"IBS"	"6955"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"02.21.2011"	"RFS"	"6956"
+	"Abdul
+"	"Plowe
+"	"853"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.21.2011"	"WPS"	"6958"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.21.2011"	"WPS"	"6959"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.21.2011"	"IBS"	"6960"
+	"Jolene
+"	"Kraatz
+"	"1056"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"02.19.2011"	"RAS"	"6941"
+	"Rudy
+"	"Schools
+"	"109"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"02.18.2011"	"SHS"	"6929"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.18.2011"	"COS"	"6931"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.17.2011"	"RFS"	"6927"
+	"Shad
+"	"Kemick
+"	"1138"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"02.17.2011"	"LES"	"6928"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.16.2011"	"WPS"	"6918"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.16.2011"	"IBS"	"6919"
+	"Gwen
+"	"Schierbrock
+"	"755"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.16.2011"	"JZS"	"6920"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.16.2011"	"JZS"	"6922"
+	"Monte
+"	"Odette
+"	"728"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.16.2011"	"RFS"	"6946"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.16.2011"	"COS"	"6947"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.16.2011"	"JZS"	"6951"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"02.15.2011"	"RFS"	"6897"
+	"Sung
+"	"Rothery
+"	"286"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.15.2011"	"COS"	"6898"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.15.2011"	"WPS"	"6901"
+	"Collin
+"	"Houchins
+"	"1190"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.15.2011"	"LES"	"6903"
+	"Armando
+"	"Imbriale
+"	"1025"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.15.2011"	"RFS"	"6904"
+	"Marya
+"	"Demiter
+"	"61"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.15.2011"	"COS"	"6907"
+	"Sandy
+"	"Aanenson
+"	"653"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.15.2011"	"CLS"	"6908"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.15.2011"	"COS"	"6911"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.15.2011"	"JZS"	"6925"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"02.15.2011"	"IBS"	"6945"
+	"Dustin
+"	"Rosebrock
+"	"194"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.15.2011"	"WCS"	"7551"
+	"Sidney
+"	"Swaringen
+"	"1016"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.14.2011"	"COS"	"6886"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.14.2011"	"RAS"	"6887"
+	"Nedra
+"	"Conley
+"	"274"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"02.14.2011"	"VIS"	"6888"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.14.2011"	"RFS"	"6905"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"02.11.2011"	"RFS"	"6875"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"02.11.2011"	"RAS"	"6879"
+	"Laverne
+"	"Charsky
+"	"958"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"02.11.2011"	"RFS"	"6880"
+	"Charles
+"	"Hesser
+"	"439"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"02.11.2011"	"VIS"	"6881"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"02.11.2011"	"JZS"	"6882"
+	"Marcela
+"	"Perlin
+"	"362"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.11.2011"	"CLS"	"6891"
+	"Dahlia
+"	"Stieglitz
+"	"581"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.10.2011"	"WCS"	"6860"
+	"Margorie
+"	"Paranada
+"	"999"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.10.2011"	"WCS"	"6861"
+	"Milo
+"	"Schoeben
+"	"847"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.10.2011"	"JZS"	"6864"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.10.2011"	"COS"	"6867"
+	"Elida
+"	"Monroy
+"	"1017"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.10.2011"	"VIS"	"6869"
+	"Leana
+"	"Mallalieu
+"	"478"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"02.09.2011"	"HUS"	"6846"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.09.2011"	"THS"	"6847"
+	"Rickie
+"	"Telep
+"	"534"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"1"	"02.09.2011"	"JZS"	"6849"
+	"Caroyln
+"	"Amlin
+"	"290"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.09.2011"	"VIS"	"6852"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"02.09.2011"	"RFS"	"6853"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.09.2011"	"THS"	"6854"
+	"Delpha
+"	"Benko
+"	"532"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"02.09.2011"	"HUS"	"6855"
+	"Edith
+"	"Saephan
+"	"301"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"1"	"02.09.2011"	"THS"	"6856"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.09.2011"	"IBS"	"6863"
+	"Elida
+"	"Monroy
+"	"1017"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.09.2011"	"VIS"	"6868"
+	"Clayton
+"	"Desisles
+"	"474"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.08.2011"	"IBS"	"6840"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.08.2011"	"SHS"	"6841"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"02.08.2011"	"COS"	"6842"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"5"	"02.08.2011"	"RFS"	"6843"
+	"Elenor
+"	"Hollars
+"	"882"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"02.08.2011"	"COS"	"6844"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"02.08.2011"	"JZS"	"6845"
+	"Mabel
+"	"Bares
+"	"285"	"Katty Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.08.2011"	"COS"	"6909"
+	"Caroyln
+"	"Amlin
+"	"290"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.08.2011"	"VIS"	"6910"
+	"Lamar
+"	"Shein
+"	"291"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"02.07.2011"	"CLS"	"6820"
+	"Deshawn
+"	"Beilfuss
+"	"281"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"02.07.2011"	"WPS"	"6822"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.07.2011"	"ROS"	"6827"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.07.2011"	"RFS"	"6829"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.07.2011"	"COS"	"6830"
+	"Clayton
+"	"Desisles
+"	"474"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.07.2011"	"IBS"	"6831"
+	"Dusty
+"	"Richan
+"	"1137"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.07.2011"	"VIS"	"6832"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.07.2011"	"HUS"	"6833"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.04.2011"	"RFS"	"6828"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"02.03.2011"	"RAS"	"6806"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"02.03.2011"	"RFS"	"6807"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"02.03.2011"	"LES"	"6812"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.03.2011"	"COS"	"6813"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.03.2011"	"COS"	"6814"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.03.2011"	"JZS"	"6815"
+	"Caleb
+"	"Sehgal
+"	"1175"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.03.2011"	"RFS"	"6915"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.03.2011"	"IBS"	"6917"
+	"Herman
+"	"Stimple
+"	"70"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.02.2011"	"RAS"	"6784"
+	"Martin
+"	"Tennessee
+"	"74"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"02.02.2011"	"WPS"	"6785"
+	"Deshawn
+"	"Beilfuss
+"	"281"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.02.2011"	"WPS"	"6786"
+	"Leanne
+"	"Kosack
+"	"923"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"02.02.2011"	"RFS"	"6789"
+	"Sabina
+"	"Prinzivalli
+"	"756"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"02.02.2011"	"LES"	"6795"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"02.02.2011"	"JZS"	"6797"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"02.02.2011"	"THS"	"6801"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"02.01.2011"	"ROS"	"6771"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"02.01.2011"	"WPS"	"6774"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"02.01.2011"	"THS"	"6776"
+	"Odis
+"	"Sarisky
+"	"496"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"3"	"02.01.2011"	"HUS"	"6778"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"02.01.2011"	"THS"	"6780"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"02.01.2011"	"LES"	"6794"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"02.01.2011"	"HLS"	"6802"
+	"Dario
+"	"Cedotal
+"	"891"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"02.01.2011"	"COS"	"7346"
+	"Roseanne
+"	"Cerza
+"	"837"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"8"	"01.31.2011"	"SHS"	"6756"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"01.31.2011"	"COS"	"6759"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.31.2011"	"IBS"	"6761"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.31.2011"	"LES"	"6765"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.31.2011"	"SHS"	"6767"
+	"Sidney
+"	"Swaringen
+"	"1016"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.31.2011"	"COS"	"6768"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.31.2011"	"JZS"	"6769"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"4"	"01.28.2011"	"WCS"	"6731"
+	"Edith
+"	"Saephan
+"	"301"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"01.28.2011"	"THS"	"6732"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"01.28.2011"	"COS"	"6733"
+	"Sean
+"	"Seacrest
+"	"1168"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.28.2011"	"RFS"	"6736"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.27.2011"	"RAS"	"6746"
+	"Corliss
+"	"Betancur
+"	"714"	"Katty Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"01.27.2011"	"SHS"	"6748"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"01.27.2011"	"RFS"	"6751"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.26.2011"	"THS"	"6715"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"01.26.2011"	"RFS"	"6717"
+	"Lesa
+"	"Akright
+"	"538"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"01.26.2011"	"HLS"	"6718"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"01.26.2011"	"THS"	"6719"
+	"Harlan
+"	"Hillary
+"	"1152"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"01.26.2011"	"HUS"	"6723"
+	"Shad
+"	"Kemick
+"	"1138"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"01.26.2011"	"LES"	"6724"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.26.2011"	"JZS"	"6739"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.26.2011"	"THS"	"6742"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.26.2011"	"THS"	"6743"
+	"Tabitha
+"	"Fujita
+"	"729"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.26.2011"	"JZS"	"6744"
+	"Joshua
+"	"Howie
+"	"723"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.26.2011"	"WPS"	"6752"
+	"Mana
+"	"Walbert
+"	"234"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"01.26.2011"	"THS"	"6877"
+	"Bell
+"	"Tronaas
+"	"1036"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"01.25.2011"	"RFS"	"6699"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"01.25.2011"	"ROS"	"6700"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.25.2011"	"RFS"	"6702"
+	"Nelson
+"	"Santillo
+"	"129"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.25.2011"	"JZS"	"6704"
+	"Charles
+"	"Hesser
+"	"439"	" Liz Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"01.25.2011"	"VIS"	"6705"
+	"Sabina
+"	"Massay
+"	"123"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.25.2011"	"HUS"	"6740"
+	"Leland
+"	"Szekely
+"	"287"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"01.24.2011"	"CLS"	"6683"
+	"Shawna
+"	"Youd
+"	"81"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.24.2011"	"SHS"	"6684"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.24.2011"	"COS"	"6689"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.24.2011"	"HLS"	"6690"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"01.24.2011"	"JZS"	"6691"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"1"	"01.24.2011"	"LES"	"6693"
+	"Amada
+"	"Balog
+"	"1246"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"2"	"01.24.2011"	"CLS"	"6698"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.24.2011"	"IBS"	"6707"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"01.21.2011"	"THS"	"6677"
+	"Bell
+"	"Tronaas
+"	"1036"	" Liz Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"01.21.2011"	"RFS"	"6678"
+	"Casey
+"	"Harer
+"	"995"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.21.2011"	"RAS"	"6680"
+	"Elenor
+"	"Hollars
+"	"882"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.21.2011"	"COS"	"6688"
+	"Abdul
+"	"Plowe
+"	"853"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.21.2011"	"WPS"	"6694"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.21.2011"	"SHS"	"6695"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.21.2011"	"RAS"	"6878"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.20.2011"	"COS"	"6644"
+	"Tabitha
+"	"Fujita
+"	"729"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.20.2011"	"JZS"	"6650"
+	"Marcos
+"	"Crapps
+"	"89"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.20.2011"	"HLS"	"6652"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.20.2011"	"RFS"	"6655"
+	"Elida
+"	"Monroy
+"	"1017"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"01.20.2011"	"VIS"	"6657"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.20.2011"	"WPS"	"6659"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"01.20.2011"	"SHS"	"6682"
+	"Lamar
+"	"Shein
+"	"291"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"01.19.2011"	"CLS"	"6629"
+	"Tuan
+"	"Klebanoff
+"	"588"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"01.19.2011"	"WPS"	"6635"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"01.19.2011"	"THS"	"6637"
+	"Joyce
+"	"Forbess
+"	"1183"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"01.19.2011"	"HLS"	"6640"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"01.19.2011"	"RFS"	"6641"
+	"Louie
+"	"Cacho
+"	"555"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.19.2011"	"ROS"	"6651"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.19.2011"	"RFS"	"6654"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.19.2011"	"WPS"	"6658"
+	"Delilah
+"	"Gady
+"	"444"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.19.2011"	"THS"	"6660"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.19.2011"	"COS"	"6662"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.19.2011"	"IBS"	"6663"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.19.2011"	"ROS"	"6665"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"01.19.2011"	"HUS"	"6666"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.19.2011"	"COS"	"6675"
+	"Herlinda
+"	"Shideler
+"	"1125"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.18.2011"	"HLS"	"6601"
+	"Dionna
+"	"Jacome
+"	"157"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"01.18.2011"	"ROS"	"6617"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"01.18.2011"	"SHS"	"6627"
+	"Marna
+"	"Bissett
+"	"1024"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"01.18.2011"	"HUS"	"6639"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.18.2011"	"RFS"	"6653"
+	"Clayton
+"	"Desisles
+"	"474"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.18.2011"	"IBS"	"6664"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.18.2011"	"HLS"	"6668"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.18.2011"	"IBS"	"6670"
+	"Joshua
+"	"Howie
+"	"723"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.18.2011"	"WPS"	"6671"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"01.18.2011"	"LES"	"6672"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.18.2011"	"JZS"	"6673"
+	"Abdul
+"	"Plowe
+"	"853"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.18.2011"	"WPS"	"6674"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.17.2011"	"RFS"	"6585"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"01.17.2011"	"VIS"	"6599"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.17.2011"	"HLS"	"6603"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.17.2011"	"RAS"	"6604"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.17.2011"	"IBS"	"6609"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.17.2011"	"IBS"	"6611"
+	"Eric
+"	"Wattigny
+"	"858"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.17.2011"	"WPS"	"6612"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.17.2011"	"JZS"	"6613"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.17.2011"	"VIS"	"6614"
+	"Delilah
+"	"Gady
+"	"444"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.17.2011"	"THS"	"6615"
+	"Edith
+"	"Saephan
+"	"301"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"01.17.2011"	"THS"	"6642"
+	"Marchelle
+"	"Modzelewski
+"	"429"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.15.2011"	"JZS"	"6606"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"01.14.2011"	"HUS"	"6581"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.14.2011"	"JZS"	"6583"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"01.14.2011"	"RFS"	"6584"
+	"Quinn
+"	"Perring
+"	"850"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.14.2011"	"LES"	"6586"
+	"Whitley
+"	"Lagana
+"	"603"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.14.2011"	"IBS"	"6596"
+	"Berry
+"	"Savarino
+"	"586"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.14.2011"	"COS"	"6597"
+	"Antoine
+"	"Brunner
+"	"982"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.14.2011"	"SHS"	"6598"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.14.2011"	"IBS"	"6610"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"01.14.2011"	"THS"	"6621"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.14.2011"	"THS"	"6625"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.13.2011"	"RFS"	"6574"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.13.2011"	"RFS"	"6577"
+	"Joline
+"	"Ilagan
+"	"546"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.13.2011"	"RFS"	"6578"
+	"Genia
+"	"Kulick
+"	"90"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"01.13.2011"	"ROS"	"6587"
+	"Genia
+"	"Kulick
+"	"90"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.13.2011"	"ROS"	"6588"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.13.2011"	"IBS"	"6589"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"01.13.2011"	"LES"	"6593"
+	"Mathilda
+"	"Gertken
+"	"1121"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.13.2011"	"THS"	"6600"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.13.2011"	"RFS"	"6619"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"01.12.2011"	"VIS"	"6540"
+	"Armando
+"	"Imbriale
+"	"1025"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.12.2011"	"RFS"	"6569"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"01.12.2011"	"WPS"	"6572"
+	"Louie
+"	"Cacho
+"	"555"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.12.2011"	"ROS"	"6579"
+	"Sharilyn
+"	"Seryak
+"	"577"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.12.2011"	"WCS"	"6580"
+	"Delilah
+"	"Gady
+"	"444"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.12.2011"	"THS"	"6592"
+	"Dominic
+"	"Crisp
+"	"88"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.12.2011"	"SHS"	"6594"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.12.2011"	"COS"	"6661"
+	"Leonardo
+"	"Burnet
+"	"953"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"IBS"	"6508"
+	"Lesa
+"	"Akright
+"	"538"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.11.2011"	"HLS"	"6527"
+	"Edith
+"	"Saephan
+"	"301"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"1"	"01.11.2011"	"THS"	"6528"
+	"Casey
+"	"Harer
+"	"995"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"RAS"	"6529"
+	"Leland
+"	"Szekely
+"	"287"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"01.11.2011"	"CLS"	"6530"
+	"Delilah
+"	"Gady
+"	"444"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"THS"	"6532"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"THS"	"6533"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"RAS"	"6538"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"RAS"	"6539"
+	"Laurel
+"	"Putaski
+"	"442"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"ROS"	"6543"
+	"Marcos
+"	"Crapps
+"	"89"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"HLS"	"6545"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"WPS"	"6546"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"HUS"	"6547"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"JZS"	"6551"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"COS"	"6555"
+	"Gwen
+"	"Schierbrock
+"	"755"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.11.2011"	"JZS"	"6556"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"COS"	"6562"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.11.2011"	"COS"	"6563"
+	"Lacresha
+"	"Unangst
+"	"540"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"01.11.2011"	"WPS"	"6570"
+	"Leisa
+"	"Raitt
+"	"533"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"01.11.2011"	"JZS"	"6571"
+	"Tommie
+"	"Maltsberger
+"	"214"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"01.11.2011"	"ROS"	"7842"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"01.10.2011"	"IBS"	"6521"
+	"Delilah
+"	"Gady
+"	"444"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.10.2011"	"THS"	"6531"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.10.2011"	"RAS"	"6537"
+	"Laurel
+"	"Putaski
+"	"442"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"01.10.2011"	"ROS"	"6542"
+	"Marcos
+"	"Crapps
+"	"89"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.10.2011"	"HLS"	"6544"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.10.2011"	"COS"	"6561"
+	"Roseanne
+"	"Cerza
+"	"837"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"01.06.2011"	"SHS"	"6492"
+	"Raphael
+"	"Moul
+"	"592"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.06.2011"	"HUS"	"6494"
+	"Tabitha
+"	"Fujita
+"	"729"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.06.2011"	"JZS"	"6516"
+	"Young
+"	"Kazmer
+"	"846"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"01.06.2011"	"HUS"	"6517"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.06.2011"	"RFS"	"6519"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"01.06.2011"	"RFS"	"6520"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"01.06.2011"	"COS"	"6560"
+	"Joyce
+"	"Forbess
+"	"1183"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"01.05.2011"	"HLS"	"6490"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"01.05.2011"	"COS"	"6495"
+	"Shawna
+"	"Youd
+"	"81"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"01.05.2011"	"SHS"	"6510"
+	"Barry
+"	"Ocana
+"	"94"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.05.2011"	"JZS"	"6512"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.05.2011"	"JZS"	"6513"
+	"Lauralee
+"	"Duvel
+"	"836"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"01.05.2011"	"WCS"	"6518"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"01.04.2011"	"COS"	"6481"
+	"Claire
+"	"Kunsch
+"	"1167"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"01.04.2011"	"RFS"	"6482"
+	"Collin
+"	"Houchins
+"	"1190"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"1"	"01.04.2011"	"LES"	"6483"
+	"Marna
+"	"Bissett
+"	"1024"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"01.04.2011"	"HUS"	"6485"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"none"	""	"1"	"01.04.2011"	"THS"	"6487"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.04.2011"	"JZS"	"6499"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.04.2011"	"THS"	"6502"
+	"Joshua
+"	"Petraglia
+"	"874"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.04.2011"	"COS"	"6503"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"01.03.2011"	"RAS"	"6497"
+	"Milo
+"	"Schoeben
+"	"847"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"01.03.2011"	"JZS"	"6498"
+	"Catrina
+"	"Bronikowski
+"	"1051"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"01.03.2011"	"HLS"	"6511"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.17.2010"	"IBS"	"6506"
+	"Leonardo
+"	"Burnet
+"	"953"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.17.2010"	"IBS"	"6507"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.17.2010"	"HLS"	"6509"
+	"Mathilda
+"	"Gertken
+"	"1121"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.16.2010"	"THS"	"6443"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.16.2010"	"RAS"	"6446"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.16.2010"	"RFS"	"6450"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.16.2010"	"HUS"	"6451"
+	"Shawna
+"	"Youd
+"	"81"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.16.2010"	"SHS"	"6452"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.16.2010"	"JZS"	"6469"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"12.16.2010"	"JZS"	"6470"
+	"Elenor
+"	"Hollars
+"	"882"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.16.2010"	"COS"	"6472"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"12.16.2010"	"COS"	"6473"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"12.16.2010"	"RFS"	"6474"
+	"Nedra
+"	"Conley
+"	"274"	"Jack Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"12.16.2010"	"VIS"	"6476"
+	"Lauralee
+"	"Duvel
+"	"836"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"12.15.2010"	"WCS"	"6431"
+	"Joyce
+"	"Forbess
+"	"1183"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.15.2010"	"HLS"	"6438"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.15.2010"	"RAS"	"6445"
+	"Joshua
+"	"Petraglia
+"	"874"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"12.15.2010"	"COS"	"6454"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"12.15.2010"	"COS"	"6455"
+	"Charles
+"	"Hesser
+"	"439"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.15.2010"	"VIS"	"6456"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.15.2010"	"IBS"	"6457"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.15.2010"	"IBS"	"6458"
+	"Leonardo
+"	"Burnet
+"	"953"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.15.2010"	"IBS"	"6461"
+	"Eric
+"	"Wattigny
+"	"858"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.15.2010"	"WPS"	"6462"
+	"Lawerence
+"	"Michener
+"	"473"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.15.2010"	"HLS"	"6468"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.15.2010"	"COS"	"6471"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"12.14.2010"	"ROS"	"6414"
+	"Vicente
+"	"Copelin
+"	"427"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"12.14.2010"	"IBS"	"6415"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.14.2010"	"JZS"	"6419"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.14.2010"	"JZS"	"6420"
+	"Houston
+"	"Willborn
+"	"85"	"Andy Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"12.14.2010"	"HUS"	"6421"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.14.2010"	"HLS"	"6422"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.14.2010"	"JZS"	"6423"
+	"Eric
+"	"Wattigny
+"	"858"	"Jack Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"12.14.2010"	"WPS"	"6424"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.14.2010"	"WPS"	"6425"
+	"Abdul
+"	"Plowe
+"	"853"	" Liz Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"12.14.2010"	"WPS"	"6426"
+	"Monte
+"	"Odette
+"	"728"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.14.2010"	"RFS"	"6427"
+	"Leonardo
+"	"Burnet
+"	"953"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"12.14.2010"	"IBS"	"6428"
+	"Dexter
+"	"Lamos
+"	"65"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.14.2010"	"LES"	"6435"
+	"Dorian
+"	"Hornyak
+"	"1145"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.14.2010"	"WCS"	"6460"
+	"Deedee
+"	"Bloomberg
+"	"790"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"3"	"12.13.2010"	"THS"	"6386"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"I"	""	"1"	"12.13.2010"	"THS"	"6387"
+	"Reinaldo
+"	"Sadorra
+"	"279"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"12.13.2010"	"CLS"	"6388"
+	"Quentin
+"	"Geoffrion
+"	"297"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"12.13.2010"	"WPS"	"6389"
+	"Timothy
+"	"Feith
+"	"283"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"12.13.2010"	"SHS"	"6391"
+	"Armando
+"	"Imbriale
+"	"1025"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"12.13.2010"	"RFS"	"6392"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.13.2010"	"JZS"	"6394"
+	"Monte
+"	"Odette
+"	"728"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.13.2010"	"RFS"	"6395"
+	"Joshua
+"	"Petraglia
+"	"874"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.13.2010"	"COS"	"6399"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.13.2010"	"RAS"	"6401"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"12.13.2010"	"RFS"	"6406"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"12.13.2010"	"IBS"	"6407"
+	"Eddy
+"	"Chaplik
+"	"908"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"3"	"12.13.2010"	"LES"	"6408"
+	"Kaley
+"	"Terranova
+"	"1263"	"Katty Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"12.13.2010"	"RAS"	"6412"
+	"Tyrell
+"	"Quesnell
+"	"871"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"12.13.2010"	"WPS"	"6477"
+	"Martin
+"	"Tennessee
+"	"74"	"Jack Tester"	""	"Active"	"N"	""	""	""	""	"0"	"12.10.2010"	"WPS"	"6312"
+	"Alexandria"	"Biedekapp"	"1"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.10.2010"	"LES"	"6372"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"12.10.2010"	"JZS"	"6393"
+	"Young
+"	"Kazmer
+"	"846"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.10.2010"	"HUS"	"6396"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.10.2010"	"HUS"	"6397"
+	"Lawerence
+"	"Michener
+"	"473"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.10.2010"	"HLS"	"6405"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"12.09.2010"	"THS"	"6365"
+	"Tuan
+"	"Klebanoff
+"	"588"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"12.09.2010"	"WPS"	"6366"
+	"Boris
+"	"Habrock
+"	"1112"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"12.09.2010"	"HUS"	"6375"
+	"Genia
+"	"Kulick
+"	"90"	" Liz Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"12.08.2010"	"ROS"	"6300"
+	"Leonardo
+"	"Burnet
+"	"953"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.08.2010"	"IBS"	"6349"
+	"Marcos
+"	"Crapps
+"	"89"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.08.2010"	"HLS"	"6350"
+	"Leana
+"	"Mallalieu
+"	"478"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"12.08.2010"	"HUS"	"6352"
+	"Lesa
+"	"Akright
+"	"538"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"12.08.2010"	"HLS"	"6358"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"12.08.2010"	"THS"	"6362"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.08.2010"	"RAS"	"6400"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.08.2010"	"HLS"	"6404"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"12.07.2010"	"SHS"	"6333"
+	"Tanner
+"	"Vidmar
+"	"860"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"12.07.2010"	"THS"	"6336"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.07.2010"	"HUS"	"6337"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.07.2010"	"COS"	"6338"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"12.07.2010"	"JZS"	"6339"
+	"Eric
+"	"Wattigny
+"	"858"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.07.2010"	"WPS"	"6342"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.07.2010"	"WPS"	"6343"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.07.2010"	"RFS"	"6344"
+	"Nedra
+"	"Conley
+"	"274"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"12.07.2010"	"VIS"	"6384"
+	"Agnes
+"	"Kilker
+"	"295"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"12.06.2010"	"ROS"	"6309"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"12.06.2010"	"ROS"	"6310"
+	"Sabina
+"	"Massay
+"	"123"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.06.2010"	"HUS"	"6316"
+	"Dominic
+"	"Crisp
+"	"88"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.06.2010"	"SHS"	"6317"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.06.2010"	"JZS"	"6320"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"12.06.2010"	"JZS"	"6322"
+	"Michael
+"	"Chalfant
+"	"84"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.06.2010"	"HLS"	"6325"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.06.2010"	"WPS"	"6326"
+	"Leonardo
+"	"Burnet
+"	"953"	" Liz Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"12.06.2010"	"IBS"	"6327"
+	"Kareen
+"	"Sarff
+"	"859"	"Katty Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"12.06.2010"	"RFS"	"6328"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.06.2010"	"COS"	"6329"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.06.2010"	"RFS"	"6330"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.06.2010"	"SHS"	"6331"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"12.03.2010"	"ROS"	"6141"
+	"Tran
+"	"Groomes
+"	"792"	"Katty Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"12.03.2010"	"CLS"	"6293"
+	"Brian
+"	"Braman
+"	"627"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"12.02.2010"	"ROS"	"6284"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.02.2010"	"RFS"	"6301"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.02.2010"	"IBS"	"6302"
+	"Quinn
+"	"Perring
+"	"850"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.02.2010"	"LES"	"6303"
+	"Corliss
+"	"Betancur
+"	"714"	"Jack Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"12.01.2010"	"SHS"	"6092"
+	"Lacresha
+"	"Unangst
+"	"540"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"12.01.2010"	"WPS"	"6262"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"none"	""	"1"	"12.01.2010"	"THS"	"6263"
+	"Lacresha
+"	"Unangst
+"	"540"	" Liz Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"12.01.2010"	"WPS"	"6264"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"12.01.2010"	"VIS"	"6270"
+	"Giovanna
+"	"Stimer
+"	"435"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"12.01.2010"	"IBS"	"6272"
+	"Barry
+"	"Ocana
+"	"94"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"12.01.2010"	"JZS"	"6279"
+	"Whitley
+"	"Lagana
+"	"603"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.01.2010"	"IBS"	"6286"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.01.2010"	"IBS"	"6287"
+	"Marya
+"	"Demiter
+"	"61"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"12.01.2010"	"COS"	"6288"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"12.01.2010"	"WCS"	"6294"
+	"Erma
+"	"Fusner
+"	"1150"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"12.01.2010"	"RAS"	"6295"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"12.01.2010"	"ROS"	"6357"
+	"Sung
+"	"Rothery
+"	"286"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.30.2010"	"COS"	"6255"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"11.30.2010"	"WPS"	"6256"
+	"Gwen
+"	"Schierbrock
+"	"755"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.30.2010"	"JZS"	"6266"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.30.2010"	"VIS"	"6267"
+	"Mica
+"	"Recht
+"	"726"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.30.2010"	"VIS"	"6268"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.30.2010"	"VIS"	"6269"
+	"Giovanna
+"	"Stimer
+"	"435"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"11.30.2010"	"IBS"	"6271"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.30.2010"	"RFS"	"6275"
+	"Theressa
+"	"Renollet
+"	"1063"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.29.2010"	"THS"	"6240"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"11.29.2010"	"RFS"	"6242"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.29.2010"	"IBS"	"6243"
+	"Dominic
+"	"Crisp
+"	"88"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.29.2010"	"SHS"	"6244"
+	"Mica
+"	"Recht
+"	"726"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"11.29.2010"	"VIS"	"6251"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.24.2010"	"VIS"	"6226"
+	"Theressa
+"	"Renollet
+"	"1063"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"11.24.2010"	"THS"	"6229"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.24.2010"	"VIS"	"6250"
+	"Charles
+"	"Hesser
+"	"439"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.24.2010"	"VIS"	"6252"
+	"Dexter
+"	"Hahs
+"	"972"	" Liz Tester"	""	"Active"	"Y"	""	""	"none"	""	"0"	"11.23.2010"	"COS"	"6219"
+	"Erma
+"	"Fusner
+"	"1150"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"11.23.2010"	"RAS"	"6221"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.23.2010"	"SHS"	"6222"
+	"Bell
+"	"Tronaas
+"	"1036"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.23.2010"	"RFS"	"6223"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"11.23.2010"	"ROS"	"6234"
+	"Kattie
+"	"Birdwell
+"	"896"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.23.2010"	"ROS"	"7353"
+	"Dustin
+"	"Rosebrock
+"	"194"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.23.2010"	"WCS"	"7354"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"11.22.2010"	"HUS"	"6175"
+	"Lesa
+"	"Akright
+"	"538"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.22.2010"	"HLS"	"6181"
+	"Berry
+"	"Basse
+"	"544"	"Jack Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"11.22.2010"	"THS"	"6184"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"11.22.2010"	"THS"	"6186"
+	"Dionna
+"	"Jacome
+"	"157"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.22.2010"	"ROS"	"6188"
+	"Dyan
+"	"Petricka
+"	"656"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"11.22.2010"	"SHS"	"6196"
+	"Shamika
+"	"Skordahl
+"	"60"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.22.2010"	"LES"	"6198"
+	"Marya
+"	"Demiter
+"	"61"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.22.2010"	"COS"	"6199"
+	"Claire
+"	"Kunsch
+"	"1167"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.22.2010"	"RFS"	"6237"
+	"Elanor
+"	"Nenninger
+"	"462"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.20.2010"	"HLS"	"6218"
+	"Marchelle
+"	"Modzelewski
+"	"429"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.19.2010"	"JZS"	"6156"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.19.2010"	"VIS"	"6158"
+	"Whitley
+"	"Lagana
+"	"603"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.19.2010"	"IBS"	"6160"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.19.2010"	"ROS"	"6162"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.19.2010"	"RFS"	"6173"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"11.18.2010"	"IBS"	"6127"
+	"Herman
+"	"Stimple
+"	"70"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"11.18.2010"	"RAS"	"6128"
+	"Milo
+"	"Schoeben
+"	"847"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.18.2010"	"JZS"	"6139"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.18.2010"	"ROS"	"6140"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.18.2010"	"ROS"	"6142"
+	"Seema
+"	"Orgeron
+"	"529"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"11.18.2010"	"VIS"	"6145"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"11.18.2010"	"JZS"	"6149"
+	"Quentin
+"	"Geoffrion
+"	"297"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.18.2010"	"WPS"	"6154"
+	"Gale
+"	"Seaquist
+"	"770"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"11.18.2010"	"WCS"	"6159"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"1"	"11.18.2010"	"COS"	"6164"
+	"Marna
+"	"Bissett
+"	"1024"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.18.2010"	"HUS"	"6165"
+	"Gordon
+"	"Kleine
+"	"545"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.18.2010"	"COS"	"6172"
+	"Seema
+"	"Orgeron
+"	"529"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.17.2010"	"VIS"	"6112"
+	"Rudy
+"	"Schools
+"	"109"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"11.17.2010"	"SHS"	"6113"
+	"Joline
+"	"Ilagan
+"	"546"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"11.17.2010"	"RFS"	"6114"
+	"Vicente
+"	"Kalafarski
+"	"1174"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.17.2010"	"WCS"	"6120"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"4"	"11.17.2010"	"COS"	"6121"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.17.2010"	"VIS"	"6130"
+	"Joshua
+"	"Howie
+"	"723"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.17.2010"	"WPS"	"6132"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"11.17.2010"	"LES"	"6133"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.17.2010"	"COS"	"6137"
+	"Young
+"	"Kazmer
+"	"846"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.17.2010"	"HUS"	"6138"
+	"Jeri
+"	"Pucillo
+"	"725"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.17.2010"	"HUS"	"6143"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"11.17.2010"	"IBS"	"6166"
+	"Alesha
+"	"Nietupski
+"	"280"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.17.2010"	"IBS"	"6167"
+	"Dyan
+"	"Petricka
+"	"656"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"11.16.2010"	"SHS"	"6093"
+	"Milo
+"	"Schoeben
+"	"847"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.16.2010"	"JZS"	"6096"
+	"Michael
+"	"Chalfant
+"	"84"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.16.2010"	"HLS"	"6101"
+	"Clayton
+"	"Desisles
+"	"474"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.16.2010"	"IBS"	"6102"
+	"Genia
+"	"Kulick
+"	"90"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.16.2010"	"ROS"	"6104"
+	"Boris
+"	"Habrock
+"	"1112"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"11.16.2010"	"HUS"	"6105"
+	"Boris
+"	"Habrock
+"	"1112"	"Andy Tester"	""	"Active"	"Y"	""	""	"S"	""	"0"	"11.16.2010"	"HUS"	"6106"
+	"Agnes
+"	"Kilker
+"	"295"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"1"	"11.16.2010"	"ROS"	"6110"
+	"Jody
+"	"Turnblom
+"	"284"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.16.2010"	"SHS"	"6115"
+	"Deshawn
+"	"Beilfuss
+"	"281"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"1"	"11.16.2010"	"WPS"	"6118"
+	"Foster
+"	"Bittle
+"	"82"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.16.2010"	"SHS"	"6136"
+	"Halley
+"	"Saeli
+"	"746"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"11.16.2010"	"JZS"	"7839"
+	"Lauralee
+"	"Duvel
+"	"836"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"11.15.2010"	"WCS"	"6067"
+	"Margorie
+"	"Paranada
+"	"999"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"WCS"	"6075"
+	"Marya
+"	"Demiter
+"	"61"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"COS"	"6076"
+	"Dominic
+"	"Crisp
+"	"88"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"SHS"	"6078"
+	"Gale
+"	"Seaquist
+"	"770"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.15.2010"	"WCS"	"6080"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"11.15.2010"	"VIS"	"6082"
+	"Jeri
+"	"Pucillo
+"	"725"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"HUS"	"6084"
+	"Monte
+"	"Odette
+"	"728"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"RFS"	"6085"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"IBS"	"6086"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.15.2010"	"RFS"	"6089"
+	"Elenor
+"	"Hollars
+"	"882"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.15.2010"	"COS"	"6090"
+	"Houston
+"	"Willborn
+"	"85"	"Andy Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"11.15.2010"	"HUS"	"6091"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"11.15.2010"	"COS"	"6094"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"1"	"11.15.2010"	"THS"	"6095"
+	"Antonio
+"	"Fland
+"	"363"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.15.2010"	"WCS"	"6170"
+	"Sook
+"	"Slowey
+"	"752"	"Andy Tester"	"Abusive language"	"Active"	"N"	"Abusive / Threatening Language"	"Major"	""	"Office"	"1"	"11.14.2010"	"WCS"	"11505"
+	"Deshawn
+"	"Beilfuss
+"	"281"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"11.12.2010"	"WPS"	"6048"
+	"Sung
+"	"Rothery
+"	"286"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.12.2010"	"COS"	"6049"
+	"Jess
+"	"Gammage
+"	"1208"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"11.12.2010"	"WCS"	"6051"
+	"Mica
+"	"Recht
+"	"726"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.12.2010"	"VIS"	"6052"
+	"Gwen
+"	"Schierbrock
+"	"755"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.12.2010"	"JZS"	"6054"
+	"Lawerence
+"	"Michener
+"	"473"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.12.2010"	"HLS"	"6055"
+	"Joshua
+"	"Petraglia
+"	"874"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.12.2010"	"COS"	"6056"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"11.12.2010"	"IBS"	"6058"
+	"Corliss
+"	"Betancur
+"	"714"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"11.12.2010"	"SHS"	"6060"
+	"Whitley
+"	"Lagana
+"	"603"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.12.2010"	"IBS"	"6062"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.11.2010"	"HLS"	"6035"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.11.2010"	"IBS"	"6038"
+	"Mica
+"	"Recht
+"	"726"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.11.2010"	"VIS"	"6039"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.11.2010"	"JZS"	"6040"
+	"Joshua
+"	"Howie
+"	"723"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"11.11.2010"	"WPS"	"6041"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"11.11.2010"	"RAS"	"6043"
+	"Nelson
+"	"Santillo
+"	"129"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.11.2010"	"JZS"	"6044"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.11.2010"	"SHS"	"6134"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.11.2010"	"SHS"	"6135"
+	"Karri
+"	"Lysher
+"	"794"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.10.2010"	"CLS"	"4587"
+	"Marica
+"	"Arnst
+"	"1297"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"11.10.2010"	"JZS"	"6011"
+	"Herman
+"	"Stimple
+"	"70"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"11.10.2010"	"RAS"	"6012"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"2"	"11.10.2010"	"SHS"	"6014"
+	"Clayton
+"	"Desisles
+"	"474"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.10.2010"	"IBS"	"6016"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"11.10.2010"	"LES"	"6017"
+	"Corliss
+"	"Betancur
+"	"714"	" Liz Tester"	""	"Active"	"Y"	""	""	"none"	""	"0"	"11.10.2010"	"SHS"	"6021"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.10.2010"	"VIS"	"6022"
+	"Lamar
+"	"Shein
+"	"291"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.10.2010"	"CLS"	"6025"
+	"Lacresha
+"	"Unangst
+"	"540"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"4"	"11.10.2010"	"WPS"	"6026"
+	"Reuben
+"	"Harthorne
+"	"182"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.10.2010"	"CLS"	"6045"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"11.09.2010"	"COS"	"5980"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"11.09.2010"	"IBS"	"5981"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"11.09.2010"	"COS"	"5982"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.09.2010"	"IBS"	"5989"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.09.2010"	"COS"	"5990"
+	"Sharyl
+"	"Toney
+"	"434"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.09.2010"	"WPS"	"5992"
+	"Edmond
+"	"Hoeck
+"	"92"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.09.2010"	"VIS"	"5994"
+	"Stuart
+"	"Klepac
+"	"87"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.09.2010"	"RAS"	"5996"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.09.2010"	"HLS"	"5997"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.09.2010"	"IBS"	"5998"
+	"Clayton
+"	"Desisles
+"	"474"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.09.2010"	"IBS"	"5999"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.09.2010"	"JZS"	"6000"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.09.2010"	"COS"	"6001"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.09.2010"	"HUS"	"6002"
+	"Michael
+"	"Chalfant
+"	"84"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.09.2010"	"HLS"	"6004"
+	"Laverne
+"	"Charsky
+"	"958"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.09.2010"	"RFS"	"6005"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.09.2010"	"VIS"	"6007"
+	"Boris
+"	"Habrock
+"	"1112"	"Jack Tester"	""	"Active"	"Y"	""	""	"S"	""	"1"	"11.09.2010"	"HUS"	"6008"
+	"Gwen
+"	"Schierbrock
+"	"755"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.09.2010"	"JZS"	"6009"
+	"Samara
+"	"Kapadia
+"	"1074"	"Katty Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"11.09.2010"	"RAS"	"6027"
+	"Claire
+"	"Kunsch
+"	"1167"	"Jack Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"11.09.2010"	"RFS"	"6028"
+	"Gordon
+"	"Kleine
+"	"545"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"COS"	"5956"
+	"Shantae
+"	"Boatright
+"	"1022"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"HUS"	"5957"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"11.08.2010"	"JZS"	"5963"
+	"Agnes
+"	"Kilker
+"	"295"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"ROS"	"5964"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"11.08.2010"	"IBS"	"5965"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"IBS"	"5966"
+	"Jeri
+"	"Pucillo
+"	"725"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"HUS"	"5967"
+	"Jeri
+"	"Pucillo
+"	"725"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"HUS"	"5968"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"11.08.2010"	"LES"	"5969"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.08.2010"	"WPS"	"5970"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"11.08.2010"	"RFS"	"5972"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.08.2010"	"HUS"	"5973"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"HUS"	"5974"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"IBS"	"5977"
+	"Sharyl
+"	"Toney
+"	"434"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"WPS"	"5991"
+	"Edmond
+"	"Hoeck
+"	"92"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"VIS"	"5993"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.08.2010"	"RAS"	"5995"
+	"Mica
+"	"Recht
+"	"726"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"11.08.2010"	"VIS"	"6006"
+	"Boris
+"	"Habrock
+"	"1112"	"Andy Tester"	""	"Active"	"Y"	""	""	"I"	""	"1"	"11.05.2010"	"HUS"	"5921"
+	"Delmar
+"	"Goodyear
+"	"55"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"11.05.2010"	"JZS"	"5922"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.05.2010"	"IBS"	"5923"
+	"Nedra
+"	"Conley
+"	"274"	"Jack Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"11.05.2010"	"VIS"	"5924"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"11.05.2010"	"RFS"	"5932"
+	"Mica
+"	"Recht
+"	"726"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.05.2010"	"VIS"	"5944"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.05.2010"	"VIS"	"5945"
+	"Leisa
+"	"Raitt
+"	"533"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.05.2010"	"JZS"	"5949"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"11.05.2010"	"IBS"	"5955"
+	"Leisa
+"	"Raitt
+"	"533"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.05.2010"	"JZS"	"6029"
+	"Lacresha
+"	"Unangst
+"	"540"	" Liz Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.05.2010"	"WPS"	"6030"
+	"Lamar
+"	"Shein
+"	"291"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.04.2010"	"CLS"	"5919"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.04.2010"	"ROS"	"5937"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.04.2010"	"IBS"	"5938"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.04.2010"	"IBS"	"5939"
+	"Morris
+"	"Fisser
+"	"1057"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.04.2010"	"RFS"	"5940"
+	"Mica
+"	"Recht
+"	"726"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.04.2010"	"VIS"	"5943"
+	"Seema
+"	"Orgeron
+"	"529"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"11.04.2010"	"VIS"	"6192"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.03.2010"	"SHS"	"5899"
+	"Shawna
+"	"Youd
+"	"81"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.03.2010"	"SHS"	"5904"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.03.2010"	"HLS"	"5912"
+	"Marchelle
+"	"Modzelewski
+"	"429"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.03.2010"	"JZS"	"5913"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.03.2010"	"JZS"	"5914"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.03.2010"	"IBS"	"5915"
+	"Gale
+"	"Seaquist
+"	"770"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.03.2010"	"WCS"	"5916"
+	"Michael
+"	"Chalfant
+"	"84"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.03.2010"	"HLS"	"5917"
+	"Monte
+"	"Odette
+"	"728"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"11.03.2010"	"RFS"	"5918"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"11.02.2010"	"HUS"	"5867"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"11.02.2010"	"THS"	"5869"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"11.02.2010"	"THS"	"5870"
+	"Colby
+"	"Cumber
+"	"267"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"11.02.2010"	"ROS"	"5874"
+	"Jeri
+"	"Pucillo
+"	"725"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.02.2010"	"HUS"	"5875"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.02.2010"	"COS"	"5890"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.02.2010"	"HUS"	"5891"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"11.02.2010"	"COS"	"5897"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"11.02.2010"	"VIS"	"5942"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"11.01.2010"	"COS"	"5860"
+	"Lacresha
+"	"Unangst
+"	"540"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"11.01.2010"	"WPS"	"5861"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"11.01.2010"	"THS"	"5862"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"11.01.2010"	"SHS"	"5878"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"11.01.2010"	"IBS"	"5879"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"11.01.2010"	"COS"	"5889"
+	"Truman
+"	"Towlson
+"	"1238"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"11.01.2010"	"WPS"	"5978"
+	"Dustin
+"	"Rosebrock
+"	"194"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"11.01.2010"	"WCS"	"6204"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.31.2010"	"VIS"	"6053"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.31.2010"	"HUS"	"6061"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.29.2010"	"LES"	"5846"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.29.2010"	"JZS"	"5851"
+	"Genia
+"	"Kulick
+"	"90"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.29.2010"	"ROS"	"5852"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.29.2010"	"ROS"	"5853"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.29.2010"	"RFS"	"5854"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.29.2010"	"LES"	"5855"
+	"Joshua
+"	"Howie
+"	"723"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.29.2010"	"WPS"	"5856"
+	"Lawerence
+"	"Michener
+"	"473"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.29.2010"	"HLS"	"5877"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"10.29.2010"	"THS"	"5959"
+	"Frances
+"	"Heptinstall
+"	"967"	"Jack Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.28.2010"	"CLS"	"5792"
+	"Samara
+"	"Kapadia
+"	"1074"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"10.28.2010"	"RAS"	"5795"
+	"Alesha
+"	"Nietupski
+"	"280"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.28.2010"	"IBS"	"5796"
+	"Lamar
+"	"Shein
+"	"291"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.28.2010"	"CLS"	"5797"
+	"Chad
+"	"Cassady
+"	"572"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"3"	"10.28.2010"	"VIS"	"5798"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.28.2010"	"JZS"	"5810"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"10.28.2010"	"COS"	"5813"
+	"Leonardo
+"	"Burnet
+"	"953"	" Liz Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.28.2010"	"IBS"	"5814"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.28.2010"	"IBS"	"5815"
+	"Kareen
+"	"Sarff
+"	"859"	"Jack Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"10.28.2010"	"RFS"	"5816"
+	"Eric
+"	"Wattigny
+"	"858"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.28.2010"	"WPS"	"5817"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.28.2010"	"SHS"	"5819"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.28.2010"	"COS"	"5826"
+	"Clayton
+"	"Desisles
+"	"474"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.28.2010"	"IBS"	"5831"
+	"Houston
+"	"Willborn
+"	"85"	"Jack Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"10.28.2010"	"HUS"	"5836"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"10.28.2010"	"LES"	"5839"
+	"Mica
+"	"Recht
+"	"726"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.28.2010"	"VIS"	"5841"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.28.2010"	"VIS"	"5842"
+	"Mac
+"	"Lacount
+"	"218"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"10.27.2010"	"ROS"	"5786"
+	"Marica
+"	"Arnst
+"	"1297"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"10.27.2010"	"JZS"	"5787"
+	"Dyan
+"	"Petricka
+"	"656"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"10.27.2010"	"SHS"	"5788"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"10.27.2010"	"THS"	"5790"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.27.2010"	"JZS"	"5808"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.27.2010"	"JZS"	"5809"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.27.2010"	"COS"	"5811"
+	"Joshua
+"	"Petraglia
+"	"874"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.27.2010"	"COS"	"5812"
+	"Gwen
+"	"Schierbrock
+"	"755"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.27.2010"	"JZS"	"5820"
+	"Foster
+"	"Bittle
+"	"82"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.27.2010"	"SHS"	"5821"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.27.2010"	"COS"	"5825"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.27.2010"	"HLS"	"5828"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.27.2010"	"IBS"	"5830"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.27.2010"	"LES"	"5838"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.27.2010"	"VIS"	"5840"
+	"Lauralee
+"	"Duvel
+"	"836"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.26.2010"	"WCS"	"5773"
+	"Marica
+"	"Arnst
+"	"1297"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"10.26.2010"	"JZS"	"5774"
+	"Mac
+"	"Lacount
+"	"218"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.26.2010"	"ROS"	"5777"
+	"Odis
+"	"Sarisky
+"	"496"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"10.26.2010"	"HUS"	"5778"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.26.2010"	"HUS"	"5779"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"10.26.2010"	"THS"	"5789"
+	"Tabitha
+"	"Fujita
+"	"729"	"Jack Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.26.2010"	"JZS"	"5804"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.26.2010"	"JZS"	"5806"
+	"Joshua
+"	"Howie
+"	"723"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.26.2010"	"WPS"	"5823"
+	"Gale
+"	"Seaquist
+"	"770"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.26.2010"	"WCS"	"5824"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.26.2010"	"HLS"	"5827"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.26.2010"	"LES"	"5837"
+	"Deedee
+"	"Bloomberg
+"	"790"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"2"	"10.25.2010"	"THS"	"5751"
+	"Joline
+"	"Ilagan
+"	"546"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.25.2010"	"RFS"	"5755"
+	"Gordon
+"	"Kleine
+"	"545"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.25.2010"	"COS"	"5756"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.25.2010"	"COS"	"5757"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"SHS"	"5759"
+	"Barry
+"	"Ocana
+"	"94"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"JZS"	"5760"
+	"Kareen
+"	"Sarff
+"	"859"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"RFS"	"5761"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"RFS"	"5762"
+	"Leonardo
+"	"Burnet
+"	"953"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"IBS"	"5768"
+	"Leonardo
+"	"Burnet
+"	"953"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"IBS"	"5769"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.25.2010"	"COS"	"5770"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.25.2010"	"SHS"	"5799"
+	"Armando
+"	"Imbriale
+"	"1025"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"10.25.2010"	"RFS"	"5801"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.25.2010"	"COS"	"5946"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"10.25.2010"	"RFS"	"5947"
+	"Elanor
+"	"Nenninger
+"	"462"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.25.2010"	"HLS"	"6185"
+	"Gale
+"	"Seaquist
+"	"770"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.22.2010"	"WCS"	"5765"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.22.2010"	"WPS"	"5767"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.22.2010"	"LES"	"5771"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.22.2010"	"LES"	"5772"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.22.2010"	"JZS"	"5807"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.20.2010"	"WPS"	"5766"
+	"Tabitha
+"	"Fujita
+"	"729"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.15.2010"	"JZS"	"5803"
+	"Dexter
+"	"Hahs
+"	"972"	"Andy Tester"	""	"Active"	"Y"	""	""	""	""	"0"	"10.14.2010"	"COS"	"5735"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.14.2010"	"IBS"	"5738"
+	"Eric
+"	"Wattigny
+"	"858"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.14.2010"	"WPS"	"5740"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.14.2010"	"IBS"	"5741"
+	"Agnes
+"	"Kilker
+"	"295"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.14.2010"	"ROS"	"5742"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.14.2010"	"JZS"	"5743"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.14.2010"	"THS"	"5745"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.14.2010"	"JZS"	"5749"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.14.2010"	"IBS"	"5750"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"10.14.2010"	"VIS"	"5763"
+	"Ricardo
+"	"Squiers
+"	"121"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.14.2010"	"WPS"	"5764"
+	"Genia
+"	"Kulick
+"	"90"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"10.14.2010"	"ROS"	"5805"
+	"Kirby
+"	"Gribbin
+"	"1277"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.13.2010"	"HLS"	"5715"
+	"Leana
+"	"Mallalieu
+"	"478"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.13.2010"	"HUS"	"5716"
+	"Lauralee
+"	"Duvel
+"	"836"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"10.13.2010"	"WCS"	"5717"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"10.13.2010"	"SHS"	"5718"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.13.2010"	"COS"	"5721"
+	"Berry
+"	"Basse
+"	"544"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"10.13.2010"	"THS"	"5722"
+	"Joyce
+"	"Forbess
+"	"1183"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.13.2010"	"HLS"	"5723"
+	"Beau
+"	"Daichendt
+"	"1041"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"10.13.2010"	"COS"	"5726"
+	"Delmar
+"	"Goodyear
+"	"55"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"1"	"10.13.2010"	"JZS"	"5728"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.13.2010"	"HLS"	"5729"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"10.13.2010"	"LES"	"5731"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.13.2010"	"IBS"	"5737"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"10.13.2010"	"LES"	"5744"
+	"Lou
+"	"Ziel
+"	"430"	"Katty Tester"	""	"Active"	"Y"	""	""	"G"	""	"0"	"10.13.2010"	"HUS"	"5747"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.12.2010"	"WCS"	"5693"
+	"Odis
+"	"Sarisky
+"	"496"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"10.12.2010"	"HUS"	"5694"
+	"Luke
+"	"Salvetti
+"	"976"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.12.2010"	"HLS"	"5695"
+	"Mabel
+"	"Bares
+"	"285"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"10.12.2010"	"COS"	"5697"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"10.12.2010"	"COS"	"5699"
+	"Alesha
+"	"Nietupski
+"	"280"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.12.2010"	"IBS"	"5700"
+	"Alton
+"	"Shuffler
+"	"443"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"10.12.2010"	"THS"	"5701"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.12.2010"	"COS"	"5702"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.12.2010"	"COS"	"5703"
+	"Martin
+"	"Tennessee
+"	"74"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"10.12.2010"	"WPS"	"5711"
+	"Demetrius
+"	"Senneker
+"	"1011"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.12.2010"	"WPS"	"5712"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.12.2010"	"RFS"	"5713"
+	"Roseanne
+"	"Cerza
+"	"837"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"10.12.2010"	"SHS"	"5784"
+	"Brooke
+"	"Strech
+"	"10"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"10.12.2010"	"RFS"	"7837"
+	"Angelia
+"	"Pinnick
+"	"18"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"10.12.2010"	"LES"	"7838"
+	"Dorian
+"	"Hornyak
+"	"1145"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.11.2010"	"WCS"	"5155"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"10.11.2010"	"HUS"	"5667"
+	"Odis
+"	"Sarisky
+"	"496"	" Liz Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"10.11.2010"	"HUS"	"5670"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.11.2010"	"ROS"	"5674"
+	"Gordon
+"	"Kleine
+"	"545"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"1"	"10.11.2010"	"COS"	"5676"
+	"Leisa
+"	"Raitt
+"	"533"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"10.11.2010"	"JZS"	"5677"
+	"Agnes
+"	"Kilker
+"	"295"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.11.2010"	"ROS"	"5679"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.11.2010"	"VIS"	"5680"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.11.2010"	"THS"	"5682"
+	"Houston
+"	"Willborn
+"	"85"	"Katty Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"10.11.2010"	"HUS"	"5684"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.11.2010"	"COS"	"5686"
+	"Dorian
+"	"Hornyak
+"	"1145"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.11.2010"	"WCS"	"5687"
+	"Eric
+"	"Wattigny
+"	"858"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.11.2010"	"WPS"	"5688"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.11.2010"	"HUS"	"5689"
+	"Genia
+"	"Kulick
+"	"90"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.11.2010"	"ROS"	"5706"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"10.10.2010"	"JZS"	"4946"
+	"Sydney
+"	"Ascolese
+"	"1213"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.08.2010"	"SHS"	"5637"
+	"Joe
+"	"Ferdon
+"	"843"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.08.2010"	"ROS"	"5639"
+	"Marica
+"	"Arnst
+"	"1297"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.08.2010"	"JZS"	"5641"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Katty Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"10.08.2010"	"THS"	"5642"
+	"Zachariah
+"	"Byassee
+"	"849"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.08.2010"	"HLS"	"5643"
+	"Shawna
+"	"Youd
+"	"81"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.08.2010"	"SHS"	"5644"
+	"Joshua
+"	"Howie
+"	"723"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.08.2010"	"WPS"	"5649"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.08.2010"	"IBS"	"5650"
+	"Rudy
+"	"Schools
+"	"109"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"10.08.2010"	"SHS"	"5652"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"10.08.2010"	"RFS"	"5660"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.07.2010"	"IBS"	"5618"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.07.2010"	"RFS"	"5619"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.07.2010"	"RFS"	"5620"
+	"Elenor
+"	"Hollars
+"	"882"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.07.2010"	"COS"	"5621"
+	"Young
+"	"Kazmer
+"	"846"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"10.07.2010"	"HUS"	"5630"
+	"Nedra
+"	"Conley
+"	"274"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"10.06.2010"	"VIS"	"5600"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.06.2010"	"VIS"	"5611"
+	"Ahmed
+"	"Bargerstock
+"	"1272"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.06.2010"	"RFS"	"5631"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	" Liz Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.06.2010"	"COS"	"5634"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"6"	"10.06.2010"	"VIS"	"5651"
+	"Louie
+"	"Fischetti
+"	"304"	"Andy Tester"	"Profanity"	"Inactive"	"N"	"Assault"	"Minor"	"S"	"Office"	"2"	"10.06.2010"	"IBS"	"8989"
+	"Dee
+"	"Chaidez
+"	"1237"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"10.05.2010"	"CLS"	"4583"
+	"Foster
+"	"Bittle
+"	"82"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.05.2010"	"SHS"	"5558"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"10.05.2010"	"WCS"	"5577"
+	"Delmar
+"	"Goodyear
+"	"55"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"1"	"10.05.2010"	"JZS"	"5578"
+	"Marya
+"	"Demiter
+"	"61"	" Liz Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"10.05.2010"	"COS"	"5580"
+	"Arcelia
+"	"Polaco
+"	"1153"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.05.2010"	"IBS"	"5581"
+	"Tabitha
+"	"Fujita
+"	"729"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.05.2010"	"JZS"	"5584"
+	"Charles
+"	"Hesser
+"	"439"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.05.2010"	"VIS"	"5586"
+	"Alton
+"	"Shuffler
+"	"443"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.05.2010"	"THS"	"5589"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.05.2010"	"COS"	"5590"
+	"Eric
+"	"Wattigny
+"	"858"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.05.2010"	"WPS"	"5595"
+	"Armando
+"	"Imbriale
+"	"1025"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.05.2010"	"RFS"	"5596"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.05.2010"	"COS"	"5597"
+	"Nerissa
+"	"Ortman
+"	"1280"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.05.2010"	"THS"	"5599"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"10.05.2010"	"COS"	"5601"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.05.2010"	"COS"	"5602"
+	"Gordon
+"	"Kleine
+"	"545"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.05.2010"	"COS"	"5603"
+	"Lacresha
+"	"Unangst
+"	"540"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"3"	"10.05.2010"	"WPS"	"5604"
+	"Joyce
+"	"Forbess
+"	"1183"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"1"	"10.05.2010"	"HLS"	"5606"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.05.2010"	"IBS"	"5613"
+	"Agnes
+"	"Kilker
+"	"295"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"10.05.2010"	"ROS"	"5636"
+	"Sook
+"	"Slowey
+"	"752"	" Liz Tester"	"Abusive language"	"Active"	"N"	"Abusive / Threatening Language"	"Major"	"S"	"Office"	"1"	"10.05.2010"	"WCS"	"11502"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.04.2010"	"JZS"	"5550"
+	"Leonardo
+"	"Burnet
+"	"953"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.04.2010"	"IBS"	"5551"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.04.2010"	"JZS"	"5557"
+	"Colby
+"	"Cumber
+"	"267"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.04.2010"	"ROS"	"5559"
+	"Joshua
+"	"Howie
+"	"723"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.04.2010"	"WPS"	"5564"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.04.2010"	"LES"	"5567"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"10.04.2010"	"COS"	"5568"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"10.04.2010"	"COS"	"5569"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.04.2010"	"JZS"	"5570"
+	"Evelyne
+"	"Milbauer
+"	"727"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"10.04.2010"	"IBS"	"5571"
+	"Jeri
+"	"Pucillo
+"	"725"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"10.04.2010"	"HUS"	"5572"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"10.04.2010"	"VIS"	"5585"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.04.2010"	"LES"	"5609"
+	"Sixta
+"	"Huddleston
+"	"522"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"10.02.2010"	"COS"	"5653"
+	"Sheba
+"	"Custance
+"	"870"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"10.02.2010"	"SHS"	"5654"
+	"Cameron
+"	"Fanti
+"	"102"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"10.02.2010"	"THS"	"5656"
+	"Lauralee
+"	"Duvel
+"	"836"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"10.01.2010"	"WCS"	"5543"
+	"Charles
+"	"Hesser
+"	"439"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"10.01.2010"	"VIS"	"5552"
+	"Eugene
+"	"Elkington
+"	"91"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"10.01.2010"	"LES"	"5553"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"10.01.2010"	"JZS"	"5573"
+	"Domitila
+"	"Semonick
+"	"288"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"1"	"10.01.2010"	"WCS"	"5574"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.30.2010"	"SHS"	"5513"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"2"	"09.30.2010"	"RFS"	"5520"
+	"Tran
+"	"Groomes
+"	"792"	"Andy Tester"	""	"Active"	"Y"	""	""	"S"	""	"1"	"09.30.2010"	"CLS"	"5522"
+	"Deanna
+"	"Yeast
+"	"233"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.30.2010"	"WPS"	"5523"
+	"Houston
+"	"Willborn
+"	"85"	" Liz Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"09.30.2010"	"HUS"	"5526"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"09.30.2010"	"LES"	"5527"
+	"Foster
+"	"Bittle
+"	"82"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.30.2010"	"SHS"	"5532"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.30.2010"	"JZS"	"5533"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.30.2010"	"JZS"	"5534"
+	"Timothy
+"	"Feith
+"	"283"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"09.30.2010"	"SHS"	"5536"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"09.30.2010"	"THS"	"5541"
+	"Brain
+"	"Gitt
+"	"1250"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.30.2010"	"ROS"	"5544"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.30.2010"	"COS"	"5560"
+	"Farrah
+"	"Grecco
+"	"26"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"4"	"09.29.2010"	"SHS"	"5488"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"09.29.2010"	"HUS"	"5489"
+	"Tran
+"	"Groomes
+"	"792"	" Liz Tester"	""	"Active"	"Y"	""	""	"S"	""	"1"	"09.29.2010"	"CLS"	"5490"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.29.2010"	"THS"	"5492"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"09.29.2010"	"VIS"	"5493"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.29.2010"	"HLS"	"5503"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.29.2010"	"VIS"	"5505"
+	"Chad
+"	"Cassady
+"	"572"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.29.2010"	"VIS"	"5510"
+	"Lacresha
+"	"Unangst
+"	"540"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.29.2010"	"WPS"	"5540"
+	"Shon
+"	"Lierz
+"	"1308"	"Andy Tester"	""	"Active"	"Y"	""	""	"S"	""	"0"	"09.28.2010"	"HLS"	"5458"
+	"Gordon
+"	"Kleine
+"	"545"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.28.2010"	"COS"	"5460"
+	"Kattie
+"	"Pestone
+"	"1069"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"09.28.2010"	"WPS"	"5461"
+	"Karri
+"	"Lysher
+"	"794"	" Liz Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"09.28.2010"	"CLS"	"5463"
+	"Rickie
+"	"Telep
+"	"534"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"I"	""	"0"	"09.28.2010"	"JZS"	"5468"
+	"Louie
+"	"Fischetti
+"	"304"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"09.28.2010"	"IBS"	"5481"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"S"	""	"1"	"09.28.2010"	"RFS"	"5482"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"09.28.2010"	"RFS"	"5485"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"09.28.2010"	"RFS"	"5486"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.28.2010"	"RFS"	"5500"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.28.2010"	"RFS"	"5501"
+	"Eugene
+"	"Elkington
+"	"91"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.28.2010"	"LES"	"5509"
+	"Elanor
+"	"Nenninger
+"	"462"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"09.28.2010"	"HLS"	"6179"
+	"Charles
+"	"Hesser
+"	"439"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.27.2010"	"VIS"	"5427"
+	"Halley
+"	"Saeli
+"	"746"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"09.27.2010"	"JZS"	"5428"
+	"Timothy
+"	"Feith
+"	"283"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"09.27.2010"	"SHS"	"5430"
+	"Louie
+"	"Fischetti
+"	"304"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"09.27.2010"	"IBS"	"5431"
+	"Nedra
+"	"Conley
+"	"274"	"Katty Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"09.27.2010"	"VIS"	"5432"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.27.2010"	"RFS"	"5433"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.27.2010"	"JZS"	"5438"
+	"Houston
+"	"Willborn
+"	"85"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"09.27.2010"	"HUS"	"5443"
+	"Houston
+"	"Willborn
+"	"85"	"Jack Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"09.27.2010"	"HUS"	"5444"
+	"Nelson
+"	"Santillo
+"	"129"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.27.2010"	"JZS"	"5446"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.27.2010"	"HLS"	"5449"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.27.2010"	"JZS"	"5450"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"2"	"09.24.2010"	"THS"	"5399"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.24.2010"	"SHS"	"5410"
+	"Kareen
+"	"Sarff
+"	"859"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.24.2010"	"RFS"	"5411"
+	"Morris
+"	"Fisser
+"	"1057"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.24.2010"	"RFS"	"5413"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.24.2010"	"IBS"	"5417"
+	"Nelson
+"	"Santillo
+"	"129"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.24.2010"	"JZS"	"5445"
+	"Nedra
+"	"Conley
+"	"274"	"Katty Tester"	""	"Inactive"	"N"	""	""	""	""	"1"	"09.23.2010"	"VIS"	"5390"
+	"Olin
+"	"Vissering
+"	"299"	" Liz Tester"	""	"Inactive"	"N"	""	""	"G"	""	"2"	"09.23.2010"	"JZS"	"5391"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.23.2010"	"THS"	"5392"
+	"Mac
+"	"Lacount
+"	"218"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.23.2010"	"ROS"	"5393"
+	"Dexter
+"	"Hahs
+"	"972"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"09.23.2010"	"COS"	"5394"
+	"Deedee
+"	"Bloomberg
+"	"790"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"09.23.2010"	"THS"	"5398"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.23.2010"	"COS"	"5405"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.23.2010"	"COS"	"5406"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"09.23.2010"	"COS"	"5407"
+	"Milo
+"	"Schoeben
+"	"847"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.23.2010"	"JZS"	"5408"
+	"Samara
+"	"Kapadia
+"	"1074"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"1"	"09.23.2010"	"RAS"	"5423"
+	"Domitila
+"	"Semonick
+"	"288"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"5"	"09.23.2010"	"WCS"	"5424"
+	"Angla
+"	"Malis
+"	"303"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"5"	"09.23.2010"	"THS"	"5425"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.23.2010"	"HLS"	"5448"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.23.2010"	"RAS"	"5451"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.23.2010"	"RAS"	"5452"
+	"Marna
+"	"Bissett
+"	"1024"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"09.23.2010"	"HUS"	"5471"
+	"Claire
+"	"Kunsch
+"	"1167"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"09.23.2010"	"RFS"	"5475"
+	"Lacresha
+"	"Unangst
+"	"540"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"09.23.2010"	"WPS"	"5479"
+	"Genia
+"	"Kulick
+"	"90"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.23.2010"	"ROS"	"5502"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"09.22.2010"	"WCS"	"5357"
+	"Marna
+"	"Bissett
+"	"1024"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"09.22.2010"	"HUS"	"5359"
+	"Marvin
+"	"Soprych
+"	"721"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"09.22.2010"	"RFS"	"5361"
+	"Mabel
+"	"Bares
+"	"285"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"09.22.2010"	"COS"	"5366"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"09.22.2010"	"JZS"	"5367"
+	"Nelson
+"	"Santillo
+"	"129"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"JZS"	"5369"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"VIS"	"5370"
+	"Stuart
+"	"Klepac
+"	"87"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"RAS"	"5374"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"SHS"	"5377"
+	"Bennie
+"	"Loveland
+"	"851"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.22.2010"	"CLS"	"5378"
+	"Delmar
+"	"Goodyear
+"	"55"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"09.22.2010"	"JZS"	"5379"
+	"Barry
+"	"Ocana
+"	"94"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.22.2010"	"JZS"	"5380"
+	"Melva
+"	"Hiskey
+"	"86"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"ROS"	"5381"
+	"Kareen
+"	"Sarff
+"	"859"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"RFS"	"5382"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.22.2010"	"JZS"	"5389"
+	"Elenor
+"	"Hollars
+"	"882"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.22.2010"	"COS"	"5404"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.22.2010"	"VIS"	"5455"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"09.22.2010"	"VIS"	"5457"
+	"Leana
+"	"Mallalieu
+"	"478"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"09.21.2010"	"HUS"	"5290"
+	"Elenor
+"	"Hollars
+"	"882"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"COS"	"5319"
+	"Shawna
+"	"Youd
+"	"81"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.21.2010"	"SHS"	"5321"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.21.2010"	"ROS"	"5326"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"THS"	"5334"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"HLS"	"5335"
+	"Max
+"	"Vanleuvan
+"	"1018"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.21.2010"	"RAS"	"5337"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"09.21.2010"	"COS"	"5338"
+	"Jeraldine
+"	"Smarr
+"	"713"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"O"	""	"0"	"09.21.2010"	"COS"	"5339"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"JZS"	"5340"
+	"Tabitha
+"	"Fujita
+"	"729"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.21.2010"	"JZS"	"5341"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.21.2010"	"VIS"	"5342"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.21.2010"	"LES"	"5343"
+	"Leonardo
+"	"Burnet
+"	"953"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"IBS"	"5345"
+	"Melva
+"	"Hiskey
+"	"86"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"ROS"	"5346"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"VIS"	"5347"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.21.2010"	"COS"	"5349"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.21.2010"	"RFS"	"5351"
+	"Dominic
+"	"Crisp
+"	"88"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.21.2010"	"SHS"	"5352"
+	"Edith
+"	"Saephan
+"	"301"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"09.21.2010"	"THS"	"5470"
+	"Olin
+"	"Vissering
+"	"299"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.21.2010"	"JZS"	"5472"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.20.2010"	"VIS"	"5191"
+	"Marica
+"	"Arnst
+"	"1297"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.20.2010"	"JZS"	"5260"
+	"Shon
+"	"Lierz
+"	"1308"	"Andy Tester"	""	"Active"	"Y"	""	""	"I"	""	"0"	"09.20.2010"	"HLS"	"5262"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"3"	"09.20.2010"	"SHS"	"5263"
+	"Frances
+"	"Heptinstall
+"	"967"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.20.2010"	"CLS"	"5264"
+	"Jaime
+"	"Valdivia
+"	"192"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"5"	"09.20.2010"	"WPS"	"5265"
+	"Louann
+"	"Hillen
+"	"1209"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.20.2010"	"LES"	"5269"
+	"Sherrie
+"	"Reville
+"	"623"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.20.2010"	"SHS"	"5270"
+	"Bell
+"	"Tronaas
+"	"1036"	"Katty Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"09.20.2010"	"RFS"	"5278"
+	"Corliss
+"	"Betancur
+"	"714"	" Liz Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"09.20.2010"	"SHS"	"5283"
+	"Nelson
+"	"Santillo
+"	"129"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.20.2010"	"JZS"	"5284"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"09.20.2010"	"COS"	"5293"
+	"Titus
+"	"Nasby
+"	"302"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.20.2010"	"RFS"	"5303"
+	"Whitley
+"	"Lagana
+"	"603"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.20.2010"	"IBS"	"5324"
+	"Nelson
+"	"Santillo
+"	"129"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.20.2010"	"JZS"	"5327"
+	"Corliss
+"	"Betancur
+"	"714"	" Liz Tester"	""	"Active"	"Y"	""	""	"O"	""	"0"	"09.20.2010"	"SHS"	"5328"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.20.2010"	"HLS"	"5344"
+	"Houston
+"	"Willborn
+"	"85"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"09.20.2010"	"HUS"	"5353"
+	"Clayton
+"	"Desisles
+"	"474"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.20.2010"	"IBS"	"5354"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.20.2010"	"COS"	"5402"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.20.2010"	"COS"	"5403"
+	"Mica
+"	"Recht
+"	"726"	"Katty Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.20.2010"	"VIS"	"5453"
+	"Mica
+"	"Recht
+"	"726"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.20.2010"	"VIS"	"5454"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.20.2010"	"COS"	"5685"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"09.17.2010"	"VIS"	"5245"
+	"Vicente
+"	"Copelin
+"	"427"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"09.17.2010"	"IBS"	"5246"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.17.2010"	"JZS"	"5275"
+	"Marvin
+"	"Soprych
+"	"721"	"Katty Tester"	""	"Inactive"	"Y"	""	""	"G"	""	"0"	"09.17.2010"	"RFS"	"5362"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.17.2010"	"COS"	"5401"
+	"Jeromy
+"	"Cleal
+"	"701"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"1"	"09.16.2010"	"VIS"	"5243"
+	"Houston
+"	"Willborn
+"	"85"	"Andy Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"09.16.2010"	"HUS"	"5249"
+	"Genia
+"	"Kulick
+"	"90"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.16.2010"	"ROS"	"5250"
+	"Temeka
+"	"Scherr
+"	"431"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.16.2010"	"WPS"	"5251"
+	"Joshua
+"	"Howie
+"	"723"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.16.2010"	"WPS"	"5252"
+	"Colby
+"	"Cumber
+"	"267"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.16.2010"	"ROS"	"5254"
+	"Marcela
+"	"Perlin
+"	"362"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.16.2010"	"CLS"	"5261"
+	"Joyce
+"	"Forbess
+"	"1183"	"Jack Tester"	""	"Active"	"N"	""	""	"G"	""	"0"	"09.16.2010"	"HLS"	"5272"
+	"Casey
+"	"Amstein
+"	"9"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"2"	"09.16.2010"	"RAS"	"7836"
+	"Herman
+"	"Stimple
+"	"70"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"09.15.2010"	"RAS"	"5216"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"09.15.2010"	"SHS"	"5218"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"09.15.2010"	"THS"	"5219"
+	"Luke
+"	"Salvetti
+"	"976"	" Liz Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"09.15.2010"	"HLS"	"5220"
+	"Joe
+"	"Ferdon
+"	"843"	"Katty Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.15.2010"	"ROS"	"5222"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.15.2010"	"SHS"	"5223"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.15.2010"	"THS"	"5224"
+	"Houston
+"	"Willborn
+"	"85"	"Andy Tester"	""	"Active"	"Y"	""	""	"none"	""	"0"	"09.15.2010"	"HUS"	"5233"
+	"Corliss
+"	"Betancur
+"	"714"	" Liz Tester"	""	"Active"	"Y"	""	""	"D"	""	"0"	"09.15.2010"	"SHS"	"5238"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.15.2010"	"COS"	"5240"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.15.2010"	"IBS"	"5258"
+	"Whitley
+"	"Lagana
+"	"603"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"09.15.2010"	"IBS"	"5259"
+	"Charles
+"	"Hesser
+"	"439"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.15.2010"	"VIS"	"5329"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.15.2010"	"THS"	"5330"
+	"Marchelle
+"	"Modzelewski
+"	"429"	" Liz Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.15.2010"	"JZS"	"5436"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"09.15.2010"	"JZS"	"5437"
+	"Delmar
+"	"Goodyear
+"	"55"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"D"	""	"0"	"09.15.2010"	"JZS"	"5519"
+	"Chad
+"	"Cassady
+"	"572"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.14.2010"	"VIS"	"5209"
+	"Joe
+"	"Ferdon
+"	"843"	"Jack Tester"	""	"Active"	"N"	""	""	"S"	""	"0"	"09.14.2010"	"ROS"	"5212"
+	"Joshua
+"	"Petraglia
+"	"874"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.14.2010"	"COS"	"5227"
+	"Dusty
+"	"Richan
+"	"1137"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.14.2010"	"VIS"	"5229"
+	"Joshua
+"	"Howie
+"	"723"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.14.2010"	"WPS"	"5231"
+	"Gale
+"	"Seaquist
+"	"770"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.14.2010"	"WCS"	"5236"
+	"Luther
+"	"Kastner
+"	"904"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.14.2010"	"CLS"	"5237"
+	"Louie
+"	"Fischetti
+"	"304"	"Jack Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.14.2010"	"IBS"	"5312"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.14.2010"	"JZS"	"5473"
+	"Rod
+"	"Suhar
+"	"1134"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.13.2010"	"RAS"	"5200"
+	"Joshua
+"	"Howie
+"	"723"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.13.2010"	"WPS"	"5201"
+	"Lawerence
+"	"Michener
+"	"473"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.13.2010"	"HLS"	"5202"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.13.2010"	"HLS"	"5203"
+	"Lawerence
+"	"Michener
+"	"473"	"Jack Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.13.2010"	"HLS"	"5204"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.13.2010"	"COS"	"5205"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.13.2010"	"RFS"	"5206"
+	"Sabina
+"	"Massay
+"	"123"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.13.2010"	"HUS"	"5207"
+	"Dominic
+"	"Crisp
+"	"88"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.13.2010"	"SHS"	"5208"
+	"Nedra
+"	"Conley
+"	"274"	" Liz Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"09.13.2010"	"VIS"	"5211"
+	"Jerome
+"	"Bellefleur
+"	"954"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.13.2010"	"RAS"	"5235"
+	"Vance
+"	"Sloat
+"	"1294"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"09.13.2010"	"THS"	"5307"
+	"Marya
+"	"Demiter
+"	"61"	"Katty Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.13.2010"	"COS"	"5579"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.11.2010"	"VIS"	"5114"
+	"Gilbert
+"	"Bene
+"	"666"	"Andy Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"09.11.2010"	"IBS"	"5281"
+	"Herman
+"	"Stimple
+"	"70"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.10.2010"	"RAS"	"5185"
+	"Melva
+"	"Hiskey
+"	"86"	"Jack Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.10.2010"	"ROS"	"5188"
+	"Michael
+"	"Chalfant
+"	"84"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.10.2010"	"HLS"	"5189"
+	"Kareen
+"	"Sarff
+"	"859"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.10.2010"	"RFS"	"5190"
+	"Chad
+"	"Cassady
+"	"572"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.10.2010"	"VIS"	"5195"
+	"Young
+"	"Kazmer
+"	"846"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.09.2010"	"HUS"	"5173"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"09.09.2010"	"JZS"	"5174"
+	"Eugene
+"	"Elkington
+"	"91"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.09.2010"	"LES"	"5177"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Katty Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.09.2010"	"JZS"	"5180"
+	"Lawerence
+"	"Michener
+"	"473"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.09.2010"	"HLS"	"5181"
+	"Chad
+"	"Cassady
+"	"572"	" Liz Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.09.2010"	"VIS"	"5193"
+	"Olin
+"	"Vissering
+"	"299"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.09.2010"	"JZS"	"5274"
+	"Leland
+"	"Szekely
+"	"287"	"Andy Tester"	""	"Active"	"Y"	""	""	"G"	""	"1"	"09.09.2010"	"CLS"	"5280"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"09.09.2010"	"COS"	"5289"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"09.08.2010"	"SHS"	"5160"
+	"Lekisha
+"	"Sobczak
+"	"698"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.08.2010"	"THS"	"5161"
+	"Delilah
+"	"Gady
+"	"444"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"09.08.2010"	"THS"	"5163"
+	"Corliss
+"	"Betancur
+"	"714"	"Jack Tester"	""	"Active"	"Y"	""	""	"none"	""	"0"	"09.08.2010"	"SHS"	"5164"
+	"Sabina
+"	"Prinzivalli
+"	"756"	"Andy Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"09.08.2010"	"LES"	"5165"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.08.2010"	"ROS"	"5167"
+	"Chad
+"	"Cassady
+"	"572"	"Jack Tester"	""	"Inactive"	"N"	""	""	"G"	""	"0"	"09.08.2010"	"VIS"	"5192"
+	"Rudy
+"	"Schools
+"	"109"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"1"	"09.07.2010"	"SHS"	"5142"
+	"Eddy
+"	"Chaplik
+"	"908"	"Jack Tester"	""	"Inactive"	"Y"	""	""	""	""	"2"	"09.07.2010"	"LES"	"5144"
+	"Zachariah
+"	"Byassee
+"	"849"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.07.2010"	"HLS"	"5146"
+	"Cherelle
+"	"Gillings
+"	"959"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.07.2010"	"CLS"	"5148"
+	"Elenor
+"	"Hollars
+"	"882"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"09.07.2010"	"COS"	"5149"
+	"Tabitha
+"	"Fujita
+"	"729"	"Andy Tester"	""	"Active"	"N"	""	""	""	""	"0"	"09.07.2010"	"JZS"	"5150"
+	"Edmond
+"	"Hoeck
+"	"92"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.07.2010"	"VIS"	"5153"
+	"Stuart
+"	"Klepac
+"	"87"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.07.2010"	"RAS"	"5157"
+	"Mica
+"	"Recht
+"	"726"	"Katty Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.07.2010"	"VIS"	"5159"
+	"Olin
+"	"Vissering
+"	"299"	"Andy Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"09.07.2010"	"JZS"	"5273"
+	"Rickie
+"	"Telep
+"	"534"	"Jack Tester"	""	"Inactive"	"Y"	""	""	"none"	""	"0"	"09.07.2010"	"JZS"	"5276"
+	"Dionna
+"	"Jacome
+"	"157"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.03.2010"	"ROS"	"5109"
+	"Leana
+"	"Mallalieu
+"	"478"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.03.2010"	"HUS"	"5112"
+	"Marica
+"	"Arnst
+"	"1297"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.03.2010"	"JZS"	"5113"
+	"Dusty
+"	"Richan
+"	"1137"	"Jack Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.03.2010"	"VIS"	"5116"
+	"Genia
+"	"Kulick
+"	"90"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.03.2010"	"ROS"	"5118"
+	"Marchelle
+"	"Modzelewski
+"	"429"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.03.2010"	"JZS"	"5122"
+	"Milo
+"	"Schoeben
+"	"847"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"09.03.2010"	"JZS"	"5125"
+	"Manuel
+"	"Celestino
+"	"848"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.03.2010"	"THS"	"5129"
+	"Bell
+"	"Tronaas
+"	"1036"	"Andy Tester"	""	"Active"	"N"	""	""	"G"	""	"2"	"09.03.2010"	"RFS"	"5277"
+	"Collin
+"	"Houchins
+"	"1190"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.03.2010"	"LES"	"5466"
+	"January
+"	"Dohnal
+"	"622"	" Liz Tester"	""	"Inactive"	"N"	""	""	"S"	""	"0"	"09.02.2010"	"THS"	"5103"
+	"Chad
+"	"Cassady
+"	"572"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.02.2010"	"VIS"	"5107"
+	"Tammara
+"	"Morro
+"	"798"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.02.2010"	"CLS"	"5117"
+	"Gale
+"	"Seaquist
+"	"770"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.02.2010"	"WCS"	"5126"
+	"Mica
+"	"Recht
+"	"726"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"09.02.2010"	"VIS"	"5158"
+	"Joyce
+"	"Forbess
+"	"1183"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.02.2010"	"HLS"	"5197"
+	"Leland
+"	"Szekely
+"	"287"	"Andy Tester"	""	"Active"	"Y"	""	""	"I"	""	"1"	"09.02.2010"	"CLS"	"5279"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.02.2010"	"COS"	"5288"
+	"Seema
+"	"Orgeron
+"	"529"	"Andy Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"09.02.2010"	"VIS"	"5314"
+	"Collin
+"	"Houchins
+"	"1190"	"Katty Tester"	""	"Inactive"	"N"	""	""	"I"	""	"1"	"09.02.2010"	"LES"	"5320"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.01.2010"	"SHS"	"5095"
+	"Lorinda
+"	"Lendor
+"	"275"	"Katty Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"09.01.2010"	"HLS"	"5096"
+	"Beau
+"	"Daichendt
+"	"1041"	"Andy Tester"	""	"Inactive"	"N"	""	""	"O"	""	"0"	"09.01.2010"	"COS"	"5100"
+	"Clayton
+"	"Desisles
+"	"474"	" Liz Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"09.01.2010"	"IBS"	"5121"
+	"Nelson
+"	"Santillo
+"	"129"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.01.2010"	"JZS"	"5123"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Jack Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"09.01.2010"	"IBS"	"5128"
+	"Elenor
+"	"Hollars
+"	"882"	"Jack Tester"	""	"Active"	"N"	""	""	""	""	"0"	"09.01.2010"	"COS"	"5132"
+	"Seema
+"	"Orgeron
+"	"529"	"Katty Tester"	""	"Inactive"	"N"	""	""	"G"	""	"1"	"09.01.2010"	"VIS"	"5313"
+	"Elenor
+"	"Hollars
+"	"882"	"Katty Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"08.31.2010"	"COS"	"5131"
+	"Wilhelmina
+"	"Spieth
+"	"1176"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"08.31.2010"	"COS"	"5287"
+	"Evelyne
+"	"Milbauer
+"	"727"	"Andy Tester"	""	"Active"	"N"	""	""	"none"	""	"0"	"08.30.2010"	"IBS"	"5127"
+	"Melva
+"	"Hiskey
+"	"86"	" Liz Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"08.30.2010"	"ROS"	"5130"
+	"Shannon
+"	"Ibasitas
+"	"548"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"08.30.2010"	"COS"	"5286"
+	"Nedra
+"	"Conley
+"	"274"	"Andy Tester"	""	"Inactive"	"N"	""	""	"I"	""	"0"	"08.27.2010"	"VIS"	"5087"
+	"Dyan
+"	"Petricka
+"	"656"	"Andy Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"08.26.2010"	"SHS"	"5086"
+	"Keesha
+"	"Beirne
+"	"1287"	"Jack Tester"	""	"Active"	"N"	""	""	"D"	""	"0"	"08.25.2010"	"HLS"	"5084"
+	"Herlinda
+"	"Shideler
+"	"1125"	" Liz Tester"	""	"Inactive"	"N"	""	""	"D"	""	"0"	"08.25.2010"	"HLS"	"5085"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	""	""	"0"	"08.24.2010"	"WCS"	"5080"
+	"Antonio
+"	"Takehara
+"	"1117"	"Andy Tester"	""	"Active"	"N"	""	""	"I"	""	"0"	"08.24.2010"	"VIS"	"5081"
+	"Chad
+"	"Cassady
+"	"572"	"Andy Tester"	""	"Inactive"	"N"	""	""	"S"	""	"1"	"08.23.2010"	"VIS"	"5074"
+	"Leana
+"	"Mallalieu
+"	"478"	" Liz Tester"	""	"Active"	"N"	""	""	"O"	""	"0"	"08.23.2010"	"HUS"	"5076"
+	"Cruz
+"	"Weech
+"	"826"	"Andy Tester"	""	"Inactive"	"N"	""	""	"none"	""	"0"	"08.23.2010"	"WCS"	"5079"
+	"Leana
+"	"Mallalieu
+"	"478"	"Katty Tester"	""	"Active"	"N"	""	""	"S"	""	"1"	"08.10.2010"	"HUS"	"4907"

@@ -1,0 +1,212 @@
+<table>
+
+<tbody>
+	<tr>
+		<td>
+			</div>
+			<div align="right">
+$text
+				
+			</div>
+									</td>
+	</tr>
+
+	<tr>
+		<td>
+			<div align="center">
+				<input type=hidden name=disciplineid value=6195>
+				<table align="center" border="0" cellpadding="2" cellspacing="2" width="100%" >
+					<tbody>
+														<tr>
+							<td colspan="4" bgcolor="#ccffff">
+	
+								<div align="right">
+										<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">DEWIS Tracking Data</font></b></div>
+
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="nowrap" width="22%"><font color="#cc0000" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Starting Date:</b></font></td>
+							<td nowrap width="28%">
+								<div align="left">
+									<input name="" value="$sdate" size="20" type="text" readonly></div>
+							</td>
+							<td width="15%"><font color="#cc0000" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>End Date:</b></font></td>
+							<td nowrap="nowrap" width="15%">
+							<div align="left">
+								<input name="" value="$edate" size="20" type="text" readonly></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="15%"><font color="#cc0000" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>End Reason:</b></font> $endbutton</td>
+							<td colspan="3" nowrap>
+								<input name="" value="$endreason" type="text" readonly size=80></div>								
+							</td>
+						</tr>
+						<tr>
+							<td colspan="4" nowrap bgcolor="yellow">
+								<div align="center">
+									<font color="#000099" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>DEWIS Flag Indicators - $sdate</b></font></div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="4" nowrap>
+								<div align="center">
+									<img src="http://dartdemo2.bssd.org/images/{$flag}" alt="" border="0"></div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="4" nowrap>
+								<div align="center">
+									<table width="100%" border="1" cellspacing="2" cellpadding="0">
+										<tr>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Attendance (YTD Percentage)</b></font></div>
+											</td>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Discipline</b></font></div>
+											</td>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Reading (R-CBM)</b></font></div>
+											</td>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Math Score (M-CAP/M-COMP)</b></font></div>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="$attendancecolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$dattendance</b></font></div>
+											</td>
+											<td bgcolor="$suspensionscolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$suspensions</b></font></div>
+											</td>
+											<td bgcolor="$readingcolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$reading</b></font></div>
+											</td>
+											<td bgcolor="$mathcolor">
+												<div align="center" >
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$math</b></font></div>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="4" nowrap bgcolor="#003399">
+								<div align="center">
+									<font color="yellow" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Current Status -  $currentdate</b></font></div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="4" nowrap>
+								<div align="center">
+									<img src="http://dartdemo2.bssd.org/images/{$currentflag}" alt="" border="0"></div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="4" nowrap>
+								<div align="center">
+									<table width="100%" border="1" cellspacing="2" cellpadding="0" align ="center">
+										<tr>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Current Attendance</b></font></div>
+											</td>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Discipline Since Flagged</b></font></div>
+											</td>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Reading (R-CBM)</b></font></div>
+											</td>
+											<td width=25%>
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Math Score (M-CAP/M-COMP)</b></font></div>
+											</td>
+										</tr>
+										<tr>
+											<td bgcolor="$currentattendancecolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$currentattendance</b></font></div>
+											</td>
+											<td bgcolor="$currentsuspensionscolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$currentsuspensions</b></font></div>
+											</td>
+											<td bgcolor="$currentreadingcolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$currentreading</b></font></div>
+											</td>
+											<td bgcolor="$currentmathcolor">
+												<div align="center">
+													<font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>$currentmath</b></font></div>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</td>
+	</tr>
+</tbody>
+</table>
+<table width="100%" border="1" cellspacing="2" cellpadding="0">
+	<tr>
+		<td colspan="10" bgcolor="#ccffff">
+			<div align="right">
+				<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">DEWIS Intervention Notes</font></b></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="8"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Student Response Team and administrator notes are added to track which interventions are being attempted for this student, and to record the outcomes.  Items with a green status box are active interventions. </font>
+			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">To create a new entry (Intervention, Discussion Notes, etc.) simpley click the button to the left. You can edit the existing records if you have permission by clicking the &quot;Edit&quot; link. </font></p>
+		</td>
+		<td colspan="2">
+			<div align="center">
+				$createbutton
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffcc66" width="60">
+			<div align="center">
+				<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Date</font></b></div>
+		</td>
+		<td bgcolor="#ffcc66" width="81">
+			<div align="center">
+				<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Category</font></b></div>
+		</td>
+		<td bgcolor="#ffcc66" width="75">
+			<div align="center">
+				<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Target</font></b></div>
+		</td>
+		<td colspan="6" bgcolor="#ffcc66">
+			<div align="center">
+				<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Notes</font></b></div>
+		</td>
+		<td bgcolor="#ffcc66" width="50">
+			<div align="center">
+				<b><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">Status</font></b></div>
+		</td>
+	</tr>
+	$dewisnotes
+</table>
+<div align="center">
+	<p></p>
+</div>
+<br><br>
+<h2>History<h2><br>
+        <center>$dewislist</center>
+
