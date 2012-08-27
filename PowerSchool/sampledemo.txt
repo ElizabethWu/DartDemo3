@@ -1,0 +1,19 @@
+[schools]name	Schoolid	Last Name	First Name	Middle Name	Gender	Race	Student Number	State Studentnumber	Grade Level	Spediep Active	Handicap1	Handicap2	Rs Speech	Rs Ot	Rs Pt	Rs Transportation	Rs Counseling	Sped Pending	Case Manager	Student Initials	F.sub	Entrydate	Entrycode	Exitdate	Exitcode    Enroll Status
+Smith Elementary School	1477	Adam	Washington	A	M	5	100038	860344105	5												0.980113636	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Alex	Henry	E	F	5	100401	562675276	4												0.977272727	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Alex	May	A	M	5	100319	425112950	0												1	11/1/2011		6/16/2012		0
+Smith Elementary School	1477	Alexander	Gray	R	M	5	100442	277256974	5												0.982954545	8/30/2011	6	6/16/2012		0
+Smith Elementary School	1477	Alice	Nance	A	M	Multi	100353	651268008	5												0.928571429	10/3/2011	4	6/16/2012		0
+Smith Elementary School	1477	Alice	Blanchard	L	F	5	100117	780014832	2												0.980113636	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Alice	Hall	A	F	2	100109	291420234	3												0.988636364	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Alison	Scarborough	C	F	5	100041	131833578	1												0.960227273	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Allan	Marsh	A	F	1	100039	854796387	1												0.764204545	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Allen	Craven	R	M	5	100210	986068034	5	Y	AU								McCue	TWT	0.971590909	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Allison	Choi	H	M	5	100390	747590589	5												0.96875	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Amy	Norman	O	F	5	100329	687646660	3												0.965909091	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Angela	McMahon	C	F	5	100358	858175090	5												0.946022727	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Arlene	Case	A	M	Multi	100178	257834267	1												0.951704545	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Arthur	Goldman	O	F	5	100454	699305313	5												0.928977273	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Ashley	Brady	R	F	5	100481	192974542	4												0.960227273	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Ashley	Houston	O	M	5	100014	865199904	4												0.977272727	8/26/2011	2	6/16/2012		0
+Smith Elementary School	1477	Ben	Whitaker	H	F	5	100292	485173515	3	Y	SL								Hall	EAS	0.877840909	8/26/2011	2	6/16/2012		0
