@@ -137,6 +137,9 @@ if (checkLogon() == FALSE and $cmd != 'processLogon' and $cmd != 'getPwd' and $c
 }
 
 switch ($cmd) {
+    case "PowerSchool":
+		include("PowerSchool.inc");
+		break;
     case "gpaEdit":
 		include("gpaEdit.inc");
 		break;

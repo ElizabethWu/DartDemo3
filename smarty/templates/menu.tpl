@@ -601,6 +601,21 @@
                     </ul>
                 </div>
             {/if}
+
+ {if $showTesting}
+                <div class="col_1">
+                    <h3> PowerSchool Import</h3>
+                    <ul>
+                        <li>
+                            <a href=index.php?cmd=PowerSchool>Fields Mapping</a>
+                        </li>
+                        <li>
+                            <a href=importDemographic.php>Import Files</a>
+                        </li>
+                    </ul>
+                </div>
+            {/if}
+
         </div>
     </li>
 

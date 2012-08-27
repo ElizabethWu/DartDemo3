@@ -8,6 +8,7 @@
 // ==================================================================
 
 global $db;
+
 global $currentSearch;
 global $total,$end, $start;
 $defaultLimit = 50;
