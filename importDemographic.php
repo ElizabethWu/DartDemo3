@@ -1,6 +1,7 @@
 <?php
 //**************************
 //author: Elizabeth Wu (lizzy.cmu@gmail.com)
+//2012-8-27
 //*************************************
 $PowerSchoolFileName="./powerschool/demographic.txt";
 $fd = fopen ($PowerSchoolFileName, 'r');
