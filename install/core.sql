@@ -34,7 +34,11 @@ CREATE TABLE IF NOT EXISTS `alert_toggles` (
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
-
+CREATE TABLE IF NOT EXISTS `powerschool` (
+  `databaseCol` varchar(20) NOT NULL default '',
+  `fileCol` varchar(20) default NULL,
+  PRIMARY KEY  (`databaseCol`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 --
 -- Table structure for table `AttendanceCodeGroups`
 --
